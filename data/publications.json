@@ -91,14 +91,6 @@
       "url": "https://www.tandfonline.com/doi/full/10.1080/13811118.2024.2363227"
     },
     {
-      "title": "Detecting Dataset Bias in Medical AI: A Generalized and Modality-Agnostic Auditing Framework",
-      "authors": "Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, Mathias Unberath",
-      "venue": "arXiv",
-      "year": "2025",
-      "citations": 7,
-      "url": "https://doi.org/10.48550/arXiv.2503.09969"
-    },
-    {
       "title": "The power of social media activism in the #YesAllWomen Movement",
       "authors": "Michelle R. Kaufman, Kate Wright, Rosalyn Shin, Elise Tirza Ohene-Kyei, Oluwatimilehin Fatoki, Tahilin Sanchez Karver, Carlos Aguirre, Mark Dredze, Ayah Zirikly",
       "venue": "Humanities and Social Sciences Communications",
@@ -323,6 +315,30 @@
       "url": "https://doi.org/10.1016/j.ijmedinf.2020.104351"
     },
     {
+      "title": "Angelfish: Building a Structurally Diverse Clinical Document Corpus",
+      "authors": "Guy Divita, Bart Desmet, Ayah Zirikly, Luke Breitfeller, Carolyn P. Rosé",
+      "venue": "AMIA Annual Symposium",
+      "year": "2020",
+      "citations": 1,
+      "url": ""
+    },
+    {
+      "title": "Curating Annotated Corpora for Functioning Information",
+      "authors": "Rene J. Silva, Chunxiao Zhou, Bart Desmet, Ayah Zirikly, Alex R. Marr, Maryanne Sacco, Pei-Shu Ho, Jonathan Camacho Maldonado, Julia Porcino, Guy Divita, Ellen Rasch",
+      "venue": "AMIA Annual Symposium",
+      "year": "2020",
+      "citations": 0,
+      "url": ""
+    },
+    {
+      "title": "Experiences and Challenges in Manual Annotation of Functioning Information in Medical Records",
+      "authors": "Jonathan Camacho Maldonado, Pei-Shu Ho, Rene J. Silva, Alex R. Marr, Julia Porcino, Maryanne Sacco, Ayah Zirikly, Leighton Chan, Ellen Rasch",
+      "venue": "AMIA Annual Symposium",
+      "year": "2020",
+      "citations": 0,
+      "url": ""
+    },
+    {
       "title": "Development of Natural Language Processing Tools to Support Determination of Federal Disability Benefits in the U.S.",
       "authors": "Bart Desmet, Julia Porcino, Ayah Zirikly, Denis Newman-Griffis, Guy Divita, Ellen Rasch",
       "venue": "LT4GOV",
@@ -336,6 +352,22 @@
       "venue": "CLPsych Workshop @ NAACL",
       "year": "2019",
       "citations": 245,
+      "url": ""
+    },
+    {
+      "title": "Bootstrapping a Mobility Dictionary from a Seed Set",
+      "authors": "Ayah Zirikly, Denis R. Newman-Griffis, Julia Porcino, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R. Marr",
+      "venue": "AMIA Annual Symposium",
+      "year": "2019",
+      "citations": 0,
+      "url": ""
+    },
+    {
+      "title": "Automated classification of mobility activities in free text clinical narratives",
+      "authors": "Denis R. Newman-Griffis, Ayah Zirikly, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R. Marr, Alyssa Lai, Eric Fosler-Lussier",
+      "venue": "AMIA Annual Symposium",
+      "year": "2019",
+      "citations": 0,
       "url": ""
     },
     {
