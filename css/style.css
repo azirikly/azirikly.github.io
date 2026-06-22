@@ -227,6 +227,25 @@ h1 {
 }
 .btn-outline:hover { background: var(--blue-light); color: var(--blue); }
 
+/* ── News ── */
+.news-list { list-style: none; }
+.news-item {
+  display: flex;
+  gap: 20px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+  align-items: baseline;
+}
+.news-item:last-child { border-bottom: none; }
+.news-date {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--blue);
+  min-width: 40px;
+  flex-shrink: 0;
+}
+.news-text { font-size: 0.95rem; line-height: 1.6; }
+
 /* ── Lab ── */
 .people-grid {
   display: grid;
