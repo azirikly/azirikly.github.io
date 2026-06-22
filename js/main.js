@@ -86,9 +86,7 @@ function renderPublications(pubs) {
     const title = pub.url
       ? `<a href="${pub.url}" target="_blank" rel="noopener">${escHtml(pub.title)}</a>`
       : escHtml(pub.title);
-    const citations = pub.citations
-      ? `<span class="pub-citations">&#x1F4CA; ${pub.citations} citations</span>`
-      : '';
+    const citations = '';
     return `
       <div class="pub-item">
         <div class="pub-number">[${i + 1}]</div>
