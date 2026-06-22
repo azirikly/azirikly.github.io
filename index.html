@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aya Zirikly</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="#home" class="nav-name">Aya Zirikly</a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#people">People</a></li>
+        <li><a href="#publications">Publications</a></li>
+        <li><a href="#teaching">Teaching</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- ── HOME ── -->
+  <section id="home">
+    <div class="container home-grid">
+      <div class="home-photo">
+        <div class="photo-placeholder" aria-label="Profile photo">AZ</div>
+      </div>
+      <div class="home-bio">
+        <h1>Aya Zirikly</h1>
+        <p class="home-title">
+          Assistant Professor,
+          <a href="https://cs.seas.gwu.edu/" target="_blank" rel="noopener">Department of Computer Science</a>,
+          <a href="https://www.gwu.edu/" target="_blank" rel="noopener">George Washington University</a>
+        </p>
+        <p class="home-title">
+          Adjunct Assistant Professor,
+          <a href="https://www.clsp.jhu.edu/" target="_blank" rel="noopener">Center for Language and Speech Processing (CLSP)</a>,
+          <a href="https://www.jhu.edu/" target="_blank" rel="noopener">Johns Hopkins University</a>
+        </p>
+
+        <p class="home-text">
+          My research sits at the intersection of Natural Language Processing (NLP) and healthcare.
+          I focus on building computational systems that can understand clinical and social-media language
+          to address critical challenges in mental health — including crisis detection, risk assessment,
+          and depression identification. I also work on AI alignment and debiasing to ensure that
+          NLP systems are fair, trustworthy, and equitable across communities.
+        </p>
+
+        <div class="interest-tags">
+          <span>NLP for Health</span>
+          <span>NLP for Mental Health</span>
+          <span>Clinical NLP</span>
+          <span>AI Alignment</span>
+          <span>Debiasing</span>
+        </div>
+
+        <div class="home-links">
+          <a href="https://scholar.google.com/citations?user=4S5BlLEAAAAJ&hl=en" target="_blank" rel="noopener" class="btn">Google Scholar</a>
+          <a href="#contact" class="btn btn-outline">Contact</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── PEOPLE ── -->
+  <section id="people" class="section-alt">
+    <div class="container">
+      <h2 class="section-title">Zirikly Lab</h2>
+      <p class="section-subtitle">
+        We are a research group focused on NLP for health and social good.
+        If you are interested in joining, please see the <a href="#contact">contact</a> section.
+      </p>
+
+      <h3 class="subsection-title">Researchers</h3>
+      <div class="people-grid">
+
+        <div class="person-card">
+          <div class="person-avatar">CP</div>
+          <div class="person-info">
+            <p class="person-name">Dr. Carson Peters</p>
+            <p class="person-degree">Researcher</p>
+            <p class="person-year">PhD, University of Maryland (2025)</p>
+          </div>
+        </div>
+
+      </div>
+
+      <h3 class="subsection-title">PhD Students</h3>
+      <div class="people-grid">
+
+        <div class="person-card">
+          <div class="person-avatar">SM</div>
+          <div class="person-info">
+            <p class="person-name">Saad Mankarious</p>
+            <p class="person-degree">PhD Student</p>
+            <p class="person-year">Started Fall 2025</p>
+          </div>
+        </div>
+
+        <div class="person-card">
+          <div class="person-avatar">AM</div>
+          <div class="person-info">
+            <p class="person-name">AbdulRahman Morsy</p>
+            <p class="person-degree">PhD Student</p>
+            <p class="person-year">Started Fall 2025</p>
+          </div>
+        </div>
+
+        <div class="person-card">
+          <div class="person-avatar">AR</div>
+          <div class="person-info">
+            <p class="person-name">Akash Raghavendra</p>
+            <p class="person-degree">PhD Student</p>
+            <p class="person-year">Starting Fall 2026</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ── PUBLICATIONS ── -->
+  <section id="publications">
+    <div class="container">
+      <h2 class="section-title">Publications</h2>
+      <p class="section-subtitle">
+        Full list on
+        <a href="https://scholar.google.com/citations?user=4S5BlLEAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>.
+        Publications update automatically from Google Scholar each week.
+      </p>
+
+      <div class="pub-controls">
+        <input type="text" id="pub-search" placeholder="Search publications…" aria-label="Search publications">
+        <select id="pub-year-filter" aria-label="Filter by year">
+          <option value="all">All years</option>
+        </select>
+      </div>
+
+      <div id="pub-list" aria-live="polite">
+        <p class="loading">Loading publications…</p>
+      </div>
+
+      <p id="pub-last-updated" class="pub-meta"></p>
+    </div>
+  </section>
+
+  <!-- ── TEACHING ── -->
+  <section id="teaching" class="section-alt">
+    <div class="container">
+      <h2 class="section-title">Teaching</h2>
+
+      <div class="course-list">
+        <div class="course-item">
+          <span class="course-name"><a href="https://azirikly.github.io/nlp4health-fall25/" target="_blank" rel="noopener">NLP for Health</a></span>
+          <span class="course-semester">Seminar &middot; Fall 2025 &middot; George Washington University</span>
+        </div>
+        <div class="course-item">
+          <span class="course-name"><a href="https://azirikly.github.io/nlu-gw26/" target="_blank" rel="noopener">Natural Language Understanding</a></span>
+          <span class="course-semester">Spring 2026 &middot; George Washington University</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── CONTACT ── -->
+  <section id="contact">
+    <div class="container">
+      <h2 class="section-title">Contact</h2>
+
+      <div class="contact-grid">
+        <div class="contact-block">
+          <h3>Get in Touch</h3>
+          <p>
+            I welcome inquiries from prospective PhD students interested in NLP for health,
+            mental health, clinical NLP, or AI fairness. Please include your CV and a brief
+            description of your research interests.
+          </p>
+
+          <form id="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+            <input type="hidden" name="_next" value="https://azirikly.github.io/#contact">
+            <div class="form-group">
+              <label for="contact-name">Name</label>
+              <input type="text" id="contact-name" name="name" required placeholder="Your name">
+            </div>
+            <div class="form-group">
+              <label for="contact-email">Email</label>
+              <input type="email" id="contact-email" name="email" required placeholder="your@email.com">
+            </div>
+            <div class="form-group">
+              <label for="contact-message">Message</label>
+              <textarea id="contact-message" name="message" required rows="5" placeholder="Your message…"></textarea>
+            </div>
+            <button type="submit" class="btn" id="contact-submit">Send Message</button>
+            <p id="contact-status" class="form-status" aria-live="polite"></p>
+          </form>
+        </div>
+
+        <div class="contact-block">
+          <h3>Find Me</h3>
+          <ul class="contact-links">
+            <li>
+              <a href="https://scholar.google.com/citations?user=4S5BlLEAAAAJ&hl=en" target="_blank" rel="noopener">
+                Google Scholar
+              </a>
+            </li>
+            <li>
+              <a href="https://cs.seas.gwu.edu/" target="_blank" rel="noopener">
+                GW Computer Science
+              </a>
+            </li>
+            <li>
+              <a href="https://www.clsp.jhu.edu/" target="_blank" rel="noopener">
+                CLSP at Johns Hopkins
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>
+        &copy; <span id="footer-year"></span> Aya Zirikly &mdash;
+        <a href="https://cs.seas.gwu.edu/" target="_blank" rel="noopener">GW Computer Science</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

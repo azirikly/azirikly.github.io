@@ -1,0 +1,198 @@
+{
+  "last_updated": "2026-06-18",
+  "zotero_user_id": "20831485",
+  "publications": [
+    {
+      "title": "Assessing the Role of Immigration Information in Medical Records: Patterns, Risks, and Recommendations",
+      "authors": "Akanksha Suresh, Ayah Zirikly, Priyanka Fernandes, Mary Catherine Beach, Kathleen R. Page",
+      "venue": "Journal of General Internal Medicine",
+      "year": "2026",
+      "type": "journal",
+      "url": "https://link.springer.com/10.1007/s11606-025-09586-4"
+    },
+    {
+      "title": "Style Transfer as Bias Mitigation: Diffusion Models for Synthetic Mental Health Text for Arabic",
+      "authors": "Saad Mankarious, Aya Zirikly",
+      "venue": "arXiv",
+      "year": "2026",
+      "type": "preprint",
+      "url": "http://arxiv.org/abs/2601.14124"
+    },
+    {
+      "title": "Assessing genetic counseling efficiency with natural language processing",
+      "authors": "Michelle H. Nguyen, Carolyn D. Applegate, Brittney Murray, Ayah Zirikly, Crystal Tichnell, Catherine Gordon, Lisa R. Yanek, Cynthia A. James, Casey Overby Taylor",
+      "venue": "Journal of the American Medical Informatics Association",
+      "year": "2026",
+      "type": "journal",
+      "url": "https://academic.oup.com/jamia/article-abstract/33/2/295/8317866"
+    },
+    {
+      "title": "Parameter-Efficient Token Embedding Editing for Clinical Class-Level Unlearning",
+      "authors": "Iyad Ait Hou, Shrenik Borad, Harsh Sharma, Pooja Srinivasan, Rebecca Hwa, Aya Zirikly",
+      "venue": "arXiv",
+      "year": "2026",
+      "type": "preprint",
+      "url": "http://arxiv.org/abs/2603.19302"
+    },
+    {
+      "title": "Exploring the Patient's Lifeworld: A Qualitative Study of Personalizing Language in Electronic Health Records",
+      "authors": "Akanksha Suresh, Priyanka Fernandes, Ayah Zirikly, Elaine C. Thompson, Anne R. Links, Keith Harrigian, Brant Chee, Mark Dredze, Mary Catherine Beach, Somnath Saha",
+      "venue": "Journal of General Internal Medicine",
+      "year": "2026",
+      "type": "journal",
+      "url": "https://link.springer.com/10.1007/s11606-026-10396-5"
+    },
+    {
+      "title": "Detecting dataset bias in medical AI using a generalized and modality agnostic auditing approach",
+      "authors": "Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, Mohammad Mehdi Farhangi, Nicholas Petrick, Mathias Unberath",
+      "venue": "npj Digital Medicine",
+      "year": "2026",
+      "type": "journal",
+      "url": "https://www.nature.com/articles/s41746-026-02807-y"
+    },
+    {
+      "title": "Mirroring Minds: Asymmetric Linguistic Accommodation and Diagnostic Identity in ADHD and Autism Reddit Communities",
+      "authors": "Saad Mankarious, Nour Zeid, Iyad Ait Hou, Rebecca Hwa, Aya Zirikly",
+      "venue": "arXiv",
+      "year": "2026",
+      "type": "preprint",
+      "url": "http://arxiv.org/abs/2604.10063"
+    },
+    {
+      "title": "The epistemologies of trust: conflicting worldviews in the \"Trustworthy AI\" discourse",
+      "authors": "David A. Broniatowski, Alexa Alice Joubin, Susan Ariel Aaronson, Y. Tony Yang, Neal Sikka, Lorien C. Abroms, Aya Zirikly, Zoe Szajnfarber",
+      "venue": "AI and Ethics",
+      "year": "2026",
+      "type": "journal",
+      "url": "https://link.springer.com/10.1007/s43681-026-01087-2"
+    },
+    {
+      "title": "A multi-metric evaluation of readability in psychiatric discharge summaries",
+      "authors": "Fuchen Li, Casey Overby Taylor, Ayah Zirikly",
+      "venue": "BioData Mining",
+      "year": "2026",
+      "type": "journal",
+      "url": "https://link.springer.com/10.1186/s13040-026-00528-2"
+    },
+    {
+      "title": "Suicide Death Prediction Using the Maryland Suicide Data Warehouse: A Sensitivity Analysis",
+      "authors": "C. Kitchen, A. Zirikly, A. Belouali, H. Kharrazi, P. Nestadt, H.C. Wilcox",
+      "venue": "Archives of Suicide Research",
+      "year": "2025",
+      "type": "journal",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/13811118.2024.2363227"
+    },
+    {
+      "title": "Outreach to Adolescents in Crisis on Social Media, YouthLine's Safe Social Spaces, 2019 to 2024",
+      "authors": "Craig Leets, Angela Nielsen, Meghan Buchanan, Ayah Zirikly, Mark Dredze, Leslie Miller, Holly C. Wilcox, Carlos Gallo",
+      "venue": "American Journal of Public Health",
+      "year": "2025",
+      "type": "journal",
+      "url": "https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2024.307970"
+    },
+    {
+      "title": "Overview of the CLPsych 2025 Shared Task Capturing Mental Health Dynamics from Social Media Timeline",
+      "authors": "Tseriotou et al.",
+      "venue": "Proceedings of CLPsych 2025",
+      "year": "2025",
+      "type": "conference",
+      "url": "https://aclanthology.org/2025.clpsych-1.16.pdf"
+    },
+    {
+      "title": "Proceedings of the 10th Workshop on Computational Linguistics and Clinical Psychology (CLPsych 2025)",
+      "authors": "Ayah Zirikly, Andrew Yates, Bart Desmet, Molly Ireland, Steven Bedrick, Sean MacAvaney, Kfir Bar, Yaakov Ophir",
+      "venue": "ACL Anthology",
+      "year": "2025",
+      "type": "proceedings",
+      "url": "https://aclanthology.org/2025.clpsych-1.0.pdf"
+    },
+    {
+      "title": "Identifying and characterizing suicide decedent subtypes using deep embedded clustering",
+      "authors": "Anas Belouali, Christopher Kitchen, Ayah Zirikly, Paul Nestadt, Holly C. Wilcox, Hadi Kharrazi",
+      "venue": "Scientific Reports",
+      "year": "2025",
+      "type": "journal",
+      "url": "https://www.nature.com/articles/s41598-025-07007-4"
+    },
+    {
+      "title": "Racial bias in clinician assessment of patient credibility: Evidence from electronic health records",
+      "authors": "Mary Catherine Beach, Keith Harrigian, Brant Chee, Alya Ahmad, Anne R. Links, Ayah Zirikly, Dingfen Han, Emily Boss, Shari Lawson, Mustapha Saheed",
+      "venue": "PLOS ONE",
+      "year": "2025",
+      "type": "journal",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328134"
+    },
+    {
+      "title": "The power of social media activism in the #YesAllWomen Movement",
+      "authors": "Michelle R. Kaufman, Kate Wright, Rosalyn Shin, Elise Tirza Ohene-Kyei, Oluwatimilehin Fatoki, Tahilin Sanchez Karver, Carlos Aguirre, Mark Dredze, Ayah Zirikly",
+      "venue": "Humanities and Social Sciences Communications",
+      "year": "2025",
+      "type": "journal",
+      "url": "https://www.nature.com/articles/s41599-025-05647-5"
+    },
+    {
+      "title": "Sindbad at AraHealthQA Track 1: Leveraging Large Language Models for Mental Health Q&A",
+      "authors": "AbdulRahman A. Morsy, Saad Mankarious, Ayah Zirikly",
+      "venue": "Proceedings of The Third Arabic Natural Language Processing Conference",
+      "year": "2025",
+      "type": "conference",
+      "url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.26.pdf"
+    },
+    {
+      "title": "Dashboard Intervention for Tracking Digital Social Media Activity in the Clinical Care of Individuals With Mood and Anxiety Disorders: Randomized Trial",
+      "authors": "Leslie Miller, Tenzin C. Lhaksampa, Alex Walker, Carlos Aguirre, Matthew DeCamp, Keith Harrigian, Jennifer Meuchel, Aja M. Meyer, Brittany Nesbitt, Sazal Sthapit, Ayah Zirikly, Mark Dredze",
+      "venue": "JMIR Mental Health",
+      "year": "2025",
+      "type": "journal",
+      "url": "https://mental.jmir.org/2025/1/e74212"
+    },
+    {
+      "title": "MindSET: Advancing Mental Health Benchmarking through Large-Scale Social Media Data",
+      "authors": "Saad Mankarious, Ayah Zirikly, Daniel Wiechmann, Elma Kerz, Edward Kempa, Yu Qiao",
+      "venue": "arXiv",
+      "year": "2025",
+      "type": "preprint",
+      "url": "http://arxiv.org/abs/2511.20672"
+    },
+    {
+      "title": "CARMA: Comprehensive Automatically-annotated Reddit Mental Health Dataset for Arabic",
+      "authors": "Saad Mankarious, Ayah Zirikly",
+      "venue": "arXiv",
+      "year": "2025",
+      "type": "preprint",
+      "url": "http://arxiv.org/abs/2511.03102"
+    },
+    {
+      "title": "Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires",
+      "authors": "Thong Nguyen, Andrew Yates, Ayah Zirikly, Bart Desmet, Arman Cohan",
+      "venue": "ACL",
+      "year": "2022",
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "CLPsych 2019 Shared Task: Predicting the Degree of Suicide Risk in Reddit Posts",
+      "authors": "Ayah Zirikly, Philip Resnik, Özlem Uzuner, Kristy Hollingshead",
+      "venue": "CLPsych Workshop @ NAACL",
+      "year": "2019",
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings",
+      "authors": "Han-Chin Shing, Suraj Nair, Ayah Zirikly, Meir Friedenberg, Hal Daumé III, Philip Resnik",
+      "venue": "CLPsych Workshop @ NAACL",
+      "year": "2018",
+      "type": "conference",
+      "url": ""
+    },
+    {
+      "title": "Named Entity Recognition for Arabic Social Media",
+      "authors": "Ayah Zirikly, Mona Diab",
+      "venue": "NAACL Workshop on Computational Approaches to Linguistic Code Switching",
+      "year": "2015",
+      "type": "conference",
+      "url": ""
+    }
+  ]
+}
