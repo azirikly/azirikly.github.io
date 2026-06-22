@@ -163,6 +163,22 @@
       "url": "https://mental.jmir.org/2025/1/e74212"
     },
     {
+      "title": "The Impact of Race and Gender Concordance Between Patients and Clinicians on Linguistic Bias in Medical Records",
+      "authors": "Ayah Zirikly, Keith Harrigian, Mark Dredze, Mary Catherine Beach",
+      "venue": "Abstract",
+      "year": "2024",
+      "citations": 0,
+      "url": ""
+    },
+    {
+      "title": "Seeing the Patient's Lifeworld: A Qualitative Study of Personalizing Language in the Medical Records",
+      "authors": "Akanksha Suresh, Priyanka Fernandes, Ayah Zirikly, Mary Catherine Beach",
+      "venue": "Abstract",
+      "year": "2024",
+      "citations": 0,
+      "url": ""
+    },
+    {
       "title": "Overview of the CLPsych 2024 Shared Task: Leveraging Large Language Models to Identify Evidence of Suicidality Risk in Online Posts",
       "authors": "Jenny Chim, Adam Tsakalidis, Dimitris Gkoumas, Dana Atzil-Slonim, Yaakov Ophir, Ayah Zirikly, Philip Resnik, Maria Liakata",
       "venue": "CLPsych Workshop @ ACL",
@@ -201,6 +217,22 @@
       "year": "2024",
       "citations": 1,
       "url": "https://doi.org/10.1093/jamiaopen/ooae117"
+    },
+    {
+      "title": "Prevalence of Stigmatizing Language Reflecting Specific Types of Bias in Medical Records Across 4 Specialties",
+      "authors": "Keith Harrigian, Ayah Zirikly, Brant Chee, Alya Ahmad, Anne R. Links, Mark Dredze, Mary Catherine Beach",
+      "venue": "Abstract",
+      "year": "2023",
+      "citations": 0,
+      "url": ""
+    },
+    {
+      "title": "Racial Bias in Documentation of Patient Adherence in Medical Records",
+      "authors": "Ayah Zirikly, Keith Harrigian, Mark Dredze, Mary Catherine Beach",
+      "venue": "Abstract",
+      "year": "2023",
+      "citations": 0,
+      "url": ""
     },
     {
       "title": "Characterization of Stigmatizing Language in Medical Records",
