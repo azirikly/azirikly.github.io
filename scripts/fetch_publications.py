@@ -1,116 +1,91 @@
 """
-Fetch publications from Zotero "My Publications" and write to data/publications.json.
-Uses the public Zotero API — no API key required.
+Fetch publications from Semantic Scholar and write to data/publications.json.
+Uses the free public Semantic Scholar API — no key required.
 Run from the repo root:  python scripts/fetch_publications.py
 """
 import json
+import time
 import urllib.request
-import urllib.parse
+import urllib.error
 from datetime import date
 from pathlib import Path
 
-ZOTERO_USER_ID = "20831485"
+SEMANTIC_SCHOLAR_AUTHOR_ID = "2216860"
 OUTPUT = Path(__file__).parent.parent / "data" / "publications.json"
 
-ITEM_TYPE_MAP = {
-    "journalArticle":      "journal",
-    "conferencePaper":     "conference",
-    "preprint":            "preprint",
-    "book":                "book",
-    "bookSection":         "book-chapter",
-    "report":              "report",
-    "thesis":              "thesis",
-    "manuscript":          "preprint",
-    "presentation":        "talk",
-}
+FIELDS = "title,authors,year,venue,citationCount,externalIds,openAccessPdf"
 
 
-def fetch_all_items():
-    items, start, limit = [], 0, 100
+def fetch_all():
+    items, offset, limit = [], 0, 100
     while True:
-        params = urllib.parse.urlencode({
-            "format": "json",
-            "v": "3",
-            "limit": limit,
-            "start": start,
-        })
-        url = f"https://api.zotero.org/users/{ZOTERO_USER_ID}/publications/items?{params}"
+        url = (
+            f"https://api.semanticscholar.org/graph/v1/author/"
+            f"{SEMANTIC_SCHOLAR_AUTHOR_ID}/papers"
+            f"?fields={FIELDS}&limit={limit}&offset={offset}"
+        )
         req = urllib.request.Request(url, headers={"User-Agent": "academic-website/1.0"})
-        with urllib.request.urlopen(req) as resp:
-            batch = json.loads(resp.read())
-        if not batch:
-            break
+        try:
+            with urllib.request.urlopen(req) as resp:
+                data = json.loads(resp.read())
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                print("  Rate limited — waiting 10 s …")
+                time.sleep(10)
+                continue
+            raise
+        batch = data.get("data", [])
         items.extend(batch)
         if len(batch) < limit:
             break
-        start += limit
+        offset += limit
     return items
 
 
-def parse_item(raw):
-    data = raw.get("data", {})
-    bib  = data
+def paper_url(paper):
+    if paper.get("openAccessPdf") and paper["openAccessPdf"].get("url"):
+        return paper["openAccessPdf"]["url"]
+    ext = paper.get("externalIds") or {}
+    if ext.get("DOI"):
+        return f"https://doi.org/{ext['DOI']}"
+    if ext.get("ArXiv"):
+        return f"https://arxiv.org/abs/{ext['ArXiv']}"
+    return ""
 
-    creators = bib.get("creators", [])
-    author_parts = []
-    for c in creators:
-        if c.get("name"):
-            author_parts.append(c["name"])
-        else:
-            first = c.get("firstName", "")
-            last  = c.get("lastName", "")
-            author_parts.append(f"{first} {last}".strip() if first else last)
-    authors = ", ".join(author_parts)
 
-    venue = (
-        bib.get("publicationTitle")
-        or bib.get("conferenceName")
-        or bib.get("publisher")
-        or bib.get("bookTitle")
-        or ""
-    )
-
-    year = ""
-    raw_date = bib.get("date", "")
-    if raw_date:
-        year = raw_date[:4]
-
-    url = bib.get("url", "")
-
-    item_type = ITEM_TYPE_MAP.get(bib.get("itemType", ""), "other")
-
+def parse(paper):
+    authors = ", ".join(a.get("name", "") for a in paper.get("authors", []))
     return {
-        "title":   bib.get("title", "").strip(),
-        "authors": authors,
-        "venue":   venue.strip(),
-        "year":    year,
-        "type":    item_type,
-        "url":     url,
+        "title":     (paper.get("title") or "").strip(),
+        "authors":   authors,
+        "venue":     paper.get("venue") or "",
+        "year":      str(paper.get("year") or ""),
+        "citations": paper.get("citationCount") or 0,
+        "url":       paper_url(paper),
     }
 
 
 def fetch():
-    print(f"Fetching Zotero My Publications for user {ZOTERO_USER_ID} …")
-    raw_items = fetch_all_items()
-    print(f"  Retrieved {len(raw_items)} items")
+    print(f"Fetching papers for Semantic Scholar author {SEMANTIC_SCHOLAR_AUTHOR_ID} …")
+    raw = fetch_all()
+    print(f"  Retrieved {len(raw)} papers")
 
-    publications = [parse_item(r) for r in raw_items]
-    publications = [p for p in publications if p["title"]]
-    publications.sort(
-        key=lambda p: int(p["year"]) if p["year"].isdigit() else 0,
+    pubs = [parse(p) for p in raw if p.get("title")]
+    pubs.sort(
+        key=lambda p: (int(p["year"]) if p["year"].isdigit() else 0, p["citations"]),
         reverse=True,
     )
 
-    for i, p in enumerate(publications):
-        print(f"  [{i+1}] {p['year']}  {p['title'][:70]}")
+    for i, p in enumerate(pubs):
+        print(f"  [{i+1:2d}] {p['year']}  {p['title'][:70]}")
 
     payload = {
-        "last_updated":  str(date.today()),
-        "zotero_user_id": ZOTERO_USER_ID,
-        "publications":  publications,
+        "last_updated": str(date.today()),
+        "semantic_scholar_author_id": SEMANTIC_SCHOLAR_AUTHOR_ID,
+        "publications": pubs,
     }
     OUTPUT.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
-    print(f"\nSaved {len(publications)} publications → {OUTPUT}")
+    print(f"\nSaved {len(pubs)} publications → {OUTPUT}")
 
 
 if __name__ == "__main__":
