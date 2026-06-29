@@ -1,187 +1,59 @@
 {
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-29",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
-      "title": "Parameter-Efficient Token Embedding Editing for Clinical Class-Level Unlearning",
-      "authors": "Iyad Ait Hou, Shrenik Borad, Harsh Sharma, Pooja Srinivasan, Rebecca Hwa, Aya Zirikly",
-      "venue": "arXiv",
-      "year": "2026",
-      "citations": 3,
-      "url": "http://arxiv.org/abs/2603.19302"
-    },
-    {
-      "title": "The epistemologies of trust: conflicting worldviews in the \"Trustworthy AI\" discourse",
-      "authors": "David A. Broniatowski, Alexa Alice Joubin, Susan Ariel Aaronson, Y. Tony Yang, Neal Sikka, Lorien C. Abroms, Aya Zirikly, Zoe Szajnfarber",
-      "venue": "AI and Ethics",
-      "year": "2026",
-      "citations": 1,
-      "url": "https://link.springer.com/10.1007/s43681-026-01087-2"
-    },
-    {
-      "title": "Assessing genetic counseling efficiency with natural language processing",
-      "authors": "Michelle H. Nguyen, Carolyn D. Applegate, Brittney Murray, Ayah Zirikly, Crystal Tichnell, Catherine Gordon, Lisa R. Yanek, Cynthia A. James, Casey Overby Taylor",
-      "venue": "Journal of the American Medical Informatics Association",
-      "year": "2026",
-      "citations": 1,
-      "url": "https://doi.org/10.1093/jamia/ocaf190"
-    },
-    {
-      "title": "A multi-metric evaluation of readability in psychiatric discharge summaries",
-      "authors": "Fuchen Li, Casey Overby Taylor, Ayah Zirikly",
-      "venue": "BioData Mining",
-      "year": "2026",
-      "citations": 0,
-      "url": "https://link.springer.com/10.1186/s13040-026-00528-2"
-    },
-    {
-      "title": "Detecting dataset bias in medical AI using a generalized and modality agnostic auditing approach",
-      "authors": "Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, Mohammad Mehdi Farhangi, Nicholas Petrick, Mathias Unberath",
-      "venue": "npj Digital Medicine",
-      "year": "2026",
-      "citations": 0,
-      "url": "https://www.nature.com/articles/s41746-026-02807-y"
-    },
-    {
-      "title": "Mirroring Minds: Asymmetric Linguistic Accommodation and Diagnostic Identity in ADHD and Autism Reddit Communities",
-      "authors": "Saad Mankarious, Nour Zeid, Iyad Ait Hou, Rebecca Hwa, Aya Zirikly",
-      "venue": "arXiv",
-      "year": "2026",
-      "citations": 0,
-      "url": "http://arxiv.org/abs/2604.10063"
-    },
-    {
-      "title": "Exploring the Patient's Lifeworld: A Qualitative Study of Personalizing Language in Electronic Health Records",
-      "authors": "Akanksha Suresh, Priyanka Fernandes, Ayah Zirikly, Elaine C. Thompson, Anne R. Links, Keith Harrigian, Brant Chee, Mark Dredze, Mary Catherine Beach, Somnath Saha",
-      "venue": "Journal of General Internal Medicine",
-      "year": "2026",
-      "citations": 0,
-      "url": "https://link.springer.com/10.1007/s11606-026-10396-5"
-    },
-    {
-      "title": "Style Transfer as Bias Mitigation: Diffusion Models for Synthetic Mental Health Text for Arabic",
-      "authors": "Saad Mankarious, Aya Zirikly",
-      "venue": "arXiv",
-      "year": "2026",
-      "citations": 0,
-      "url": "http://arxiv.org/abs/2601.14124"
-    },
-    {
-      "title": "Assessing the Role of Immigration Information in Medical Records: Patterns, Risks, and Recommendations",
-      "authors": "Akanksha Suresh, Ayah Zirikly, Priyanka Fernandes, Mary Catherine Beach, Kathleen R. Page",
-      "venue": "Journal of General Internal Medicine",
-      "year": "2026",
-      "citations": 0,
-      "url": "https://link.springer.com/10.1007/s11606-025-09586-4"
-    },
-    {
-      "title": "Overview of the CLPsych 2025 Shared Task: Capturing Mental Health Dynamics from Social Media Timelines",
-      "authors": "Tseriotou et al.",
-      "venue": "CLPsych Workshop",
-      "year": "2025",
-      "citations": 19,
-      "url": "https://aclanthology.org/2025.clpsych-1.16.pdf"
-    },
-    {
-      "title": "Suicide Death Prediction Using the Maryland Suicide Data Warehouse: A Sensitivity Analysis",
-      "authors": "C. Kitchen, A. Zirikly, A. Belouali, H. Kharrazi, P. Nestadt, H.C. Wilcox",
-      "venue": "Archives of Suicide Research",
-      "year": "2025",
-      "citations": 11,
-      "url": "https://www.tandfonline.com/doi/full/10.1080/13811118.2024.2363227"
-    },
-    {
-      "title": "The power of social media activism in the #YesAllWomen Movement",
-      "authors": "Michelle R. Kaufman, Kate Wright, Rosalyn Shin, Elise Tirza Ohene-Kyei, Oluwatimilehin Fatoki, Tahilin Sanchez Karver, Carlos Aguirre, Mark Dredze, Ayah Zirikly",
-      "venue": "Humanities and Social Sciences Communications",
+      "title": "Detecting Dataset Bias in Medical AI: A Generalized and Modality-Agnostic Auditing Framework",
+      "authors": "Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, Mathias Unberath",
+      "venue": "arXiv.org",
       "year": "2025",
       "citations": 7,
-      "url": "https://www.nature.com/articles/s41599-025-05647-5"
+      "url": "https://doi.org/10.48550/arXiv.2503.09969"
     },
     {
       "title": "CARMA: Comprehensive Automatically-annotated Reddit Mental Health Dataset for Arabic",
       "authors": "Saad Mankarious, Ayah Zirikly",
-      "venue": "arXiv",
+      "venue": "arXiv.org",
       "year": "2025",
       "citations": 5,
-      "url": "http://arxiv.org/abs/2511.03102"
+      "url": "https://doi.org/10.48550/arXiv.2511.03102"
     },
     {
-      "title": "MindSET: Advancing Mental Health Benchmarking through Large-Scale Social Media Data",
-      "authors": "Saad Mankarious, Ayah Zirikly, Daniel Wiechmann, Elma Kerz, Edward Kempa, Yu Qiao",
-      "venue": "arXiv",
+      "title": "Assessing genetic counseling efficiency with natural language processing",
+      "authors": "M. Nguyen, Carolyn D Applegate, B. Murray, Ayah Zirikly, C. Tichnell, Catherine Gordon, L. Yanek, Cynthia A James, C. O. Taylor",
+      "venue": "J. Am. Medical Informatics Assoc.",
       "year": "2025",
-      "citations": 4,
-      "url": "http://arxiv.org/abs/2511.20672"
-    },
-    {
-      "title": "Identifying and characterizing suicide decedent subtypes using deep embedded clustering",
-      "authors": "Anas Belouali, Christopher Kitchen, Ayah Zirikly, Paul Nestadt, Holly C. Wilcox, Hadi Kharrazi",
-      "venue": "Scientific Reports",
-      "year": "2025",
-      "citations": 4,
-      "url": "https://www.nature.com/articles/s41598-025-07007-4"
-    },
-    {
-      "title": "Racial bias in clinician assessment of patient credibility: Evidence from electronic health records",
-      "authors": "Mary Catherine Beach, Keith Harrigian, Brant Chee, Alya Ahmad, Anne R. Links, Ayah Zirikly, Dingfen Han, Emily Boss, Shari Lawson, Mustapha Saheed",
-      "venue": "PLOS ONE",
-      "year": "2025",
-      "citations": 2,
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0328134"
-    },
-    {
-      "title": "Outreach to Adolescents in Crisis on Social Media, YouthLine's Safe Social Spaces, 2019 to 2024",
-      "authors": "Craig Leets, Angela M. Nielsen, Meghan Buchanan, Ayah Zirikly, Mark Dredze, Leslie Miller, Holly C. Wilcox, Carlos Gallo",
-      "venue": "American Journal of Public Health",
-      "year": "2025",
-      "citations": 2,
-      "url": "https://doi.org/10.2105/AJPH.2024.307970"
+      "citations": 1,
+      "url": "https://doi.org/10.1093/jamia/ocaf190"
     },
     {
       "title": "Testing a Dashboard Intervention for Tracking Digital Social Media Activity in Clinical Care of Individuals With Mood and Anxiety Disorders: Protocol and Design Considerations for a Pragmatic Randomized Trial",
-      "authors": "Brittany Nesbitt, Danielle Virgadamo, Carlos Aguirre, Matthew DeCamp, Mark Dredze, Keith Harrigian, Tenzin C. Lhaksampa, Jennifer M. Meuchel, Aja M. Meyer, Alex Walker, Ayah Zirikly, Margaret Chisolm, Peter Zandi, Leslie Miller",
+      "authors": "Brittany Nesbitt, Danielle Virgadamo, Carlos Aguirre, Matthew DeCamp, M. Dredze, Keith Harrigian, Tenzin C Lhaksampa, Jennifer M. Meuchel, Aja M Meyer, Alex Walker, Ayah Zirikly, M. Chisolm, P. Zandi, L. Miller",
       "venue": "JMIR Research Protocols",
       "year": "2025",
-      "citations": 2,
+      "citations": 1,
       "url": "https://doi.org/10.2196/63279"
     },
     {
-      "title": "Sindbad at AraHealthQA Track 1: Leveraging Large Language Models for Mental Health Q&A",
-      "authors": "AbdulRahman A. Morsy, Saad Mankarious, Ayah Zirikly",
-      "venue": "Proceedings of The Third Arabic Natural Language Processing Conference",
+      "title": "Outreach to Adolescents in Crisis on Social Media, YouthLine's Safe Social Spaces, 2019 to 2024.",
+      "authors": "Craig Leets, Angela M Nielsen, M. Buchanan, Ayah Zirikly, M. Dredze, L. Miller, H. C. Wilcox, Carlos Gallo",
+      "venue": "American Journal of Public Health",
       "year": "2025",
       "citations": 1,
-      "url": "https://aclanthology.org/2025.arabicnlp-sharedtasks.26.pdf"
+      "url": "https://doi.org/10.2105/AJPH.2024.307970"
     },
     {
       "title": "Dashboard Intervention for Tracking Digital Social Media Activity in the Clinical Care of Individuals With Mood and Anxiety Disorders: Randomized Trial",
-      "authors": "Leslie Miller, Tenzin C. Lhaksampa, Alex Walker, Carlos Aguirre, Matthew DeCamp, Keith Harrigian, Jennifer Meuchel, Aja M. Meyer, Brittany Nesbitt, Sazal Sthapit, Ayah Zirikly, Mark Dredze",
+      "authors": "L. Miller, Tenzin C Lhaksampa, Alex Walker, Carlos Aguirre, M. DeCamp, Keith Harrigian, Jennifer M. Meuchel, Aja M Meyer, Brittany Nesbitt, Sazal Sthapit, Jason Straub, Danielle Virgadamo, Ayah Zirikly, M. Dredze, M. Chisolm, P. Zandi",
       "venue": "JMIR Mental Health",
       "year": "2025",
       "citations": 0,
-      "url": "https://mental.jmir.org/2025/1/e74212"
-    },
-    {
-      "title": "The Impact of Race and Gender Concordance Between Patients and Clinicians on Linguistic Bias in Medical Records",
-      "authors": "Ayah Zirikly, Keith Harrigian, Mark Dredze, Mary Catherine Beach",
-      "venue": "Abstract",
-      "year": "2024",
-      "citations": 0,
-      "url": ""
-    },
-    {
-      "title": "Seeing the Patient's Lifeworld: A Qualitative Study of Personalizing Language in the Medical Records",
-      "authors": "Akanksha Suresh, Priyanka Fernandes, Ayah Zirikly, Mary Catherine Beach",
-      "venue": "Abstract",
-      "year": "2024",
-      "citations": 0,
-      "url": ""
+      "url": "https://doi.org/10.2196/74212"
     },
     {
       "title": "Overview of the CLPsych 2024 Shared Task: Leveraging Large Language Models to Identify Evidence of Suicidality Risk in Online Posts",
-      "authors": "Jenny Chim, Adam Tsakalidis, Dimitris Gkoumas, Dana Atzil-Slonim, Yaakov Ophir, Ayah Zirikly, Philip Resnik, Maria Liakata",
-      "venue": "CLPsych Workshop @ ACL",
+      "authors": "Jenny Chim, Adam Tsakalidis, Dimitris Gkoumas, Dana Atzil-Slonim, Y. Ophir, Ayah Zirikly, Philip Resnik, M. Liakata",
+      "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2024",
       "citations": 32,
       "url": "https://doi.org/10.18653/v1/2024.clpsych-1.15"
@@ -196,264 +68,288 @@
     },
     {
       "title": "Are Clinical T5 Models Better for Clinical Text?",
-      "authors": "Yahan Li, Keith Harrigian, Ayah Zirikly, Mark Dredze",
-      "venue": "ML4H @ NeurIPS",
+      "authors": "Yahan Li, Keith Harrigian, Ayah Zirikly, M. Dredze",
+      "venue": "ML4H@NeurIPS",
       "year": "2024",
       "citations": 6,
       "url": "https://doi.org/10.48550/arXiv.2412.05845"
     },
     {
       "title": "Taxonomy-based prompt engineering to generate synthetic drug-related patient portal messages",
-      "authors": "Natalie Wang, Sukrit Treewaree, Ayah Zirikly, Yuzhi L. Lu, Michelle H. Nguyen, Bhavik Agarwal, Jash Shah, James M. Stevenson, Casey Overby Taylor",
+      "authors": "Natalie Wang, Sukrit Treewaree, Ayah Zirikly, Yuzhi L. Lu, M. Nguyen, Bhavik Agarwal, Jash Shah, J. M. Stevenson, Casey Overby Taylor",
       "venue": "Journal of Biomedical Informatics",
       "year": "2024",
       "citations": 5,
       "url": "https://doi.org/10.1016/j.jbi.2024.104752"
     },
     {
-      "title": "Enhancement of a social risk score in the electronic health record to identify social needs among medically underserved patients",
-      "authors": "Elham Hatef, Christopher Kitchen, Geoffrey M. Gray, Ayah Zirikly, Thomas M. Richards, Luis M. Ahumada, Jonathan P. Weiner",
+      "title": "Enhancement of a social risk score in the electronic health record to identify social needs among medically underserved patients: using structured data and free-text provider notes",
+      "authors": "E. Hatef, C. Kitchen, Geoffrey M Gray, Ayah Zirikly, Thomas M Richards, Luis M Ahumada, Jonathan P. Weiner",
       "venue": "JAMIA Open",
       "year": "2024",
       "citations": 1,
       "url": "https://doi.org/10.1093/jamiaopen/ooae117"
     },
     {
-      "title": "Prevalence of Stigmatizing Language Reflecting Specific Types of Bias in Medical Records Across 4 Specialties",
-      "authors": "Keith Harrigian, Ayah Zirikly, Brant Chee, Alya Ahmad, Anne R. Links, Mark Dredze, Mary Catherine Beach",
-      "venue": "Abstract",
-      "year": "2023",
-      "citations": 0,
-      "url": ""
-    },
-    {
-      "title": "Racial Bias in Documentation of Patient Adherence in Medical Records",
-      "authors": "Ayah Zirikly, Keith Harrigian, Mark Dredze, Mary Catherine Beach",
-      "venue": "Abstract",
-      "year": "2023",
-      "citations": 0,
-      "url": ""
-    },
-    {
       "title": "Characterization of Stigmatizing Language in Medical Records",
-      "authors": "Keith Harrigian, Ayah Zirikly, Brant Chee, Alya Ahmad, Anne R. Links, Somnath Saha, Mary Catherine Beach, Mark Dredze",
-      "venue": "ACL",
+      "authors": "Keith Harrigian, Ayah Zirikly, Brant Chee, Alya Ahmad, A. Links, S. Saha, M. Beach, M. Dredze",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2023",
       "citations": 28,
-      "url": "https://doi.org/10.18653/v1/2023.acl-short.28"
+      "url": "https://aclanthology.org/2023.acl-short.28.pdf"
     },
     {
-      "title": "Application of natural language processing to identify social needs from patient medical notes",
-      "authors": "Geoffrey M. Gray, Ayah Zirikly, Luis M. Ahumada, Masoud Rouhizadeh, Thomas M. Richards, Christopher Kitchen, Iman Foroughmand, Elham Hatef",
+      "title": "Application of natural language processing to identify social needs from patient medical notes: development and assessment of a scalable, performant, and rule-based model in an integrated healthcare delivery system",
+      "authors": "Geoffrey M Gray, Ayah Zirikly, Luis M Ahumada, Masoud Rouhizadeh, Thomas M Richards, C. Kitchen, Iman Foroughmand, E. Hatef",
       "venue": "JAMIA Open",
       "year": "2023",
       "citations": 9,
-      "url": "https://doi.org/10.1093/jamiaopen/ooad085"
+      "url": "https://academic.oup.com/jamiaopen/article-pdf/6/4/ooad085/51862725/ooad085.pdf"
     },
     {
       "title": "Editorial: Artificial intelligence for human function and disability",
       "authors": "Denis Newman-Griffis, Bart Desmet, Ayah Zirikly, Suzanne Tamang, Chih-Hung Chang",
-      "venue": "Frontiers in Digital Health",
+      "venue": "Frontiers Digit. Health",
       "year": "2023",
       "citations": 4,
-      "url": "https://doi.org/10.3389/fdgth.2023.1282287"
+      "url": "https://www.frontiersin.org/articles/10.3389/fdgth.2023.1282287/pdf?isPublishedV2=False"
     },
     {
-      "title": "A Linguistic Analysis of Instagram Captions Between Adolescent Suicide Decedents and Living Controls",
-      "authors": "Alex Walker, Ayah Zirikly, Melissa D. Stockbridge, Holly C. Wilcox",
+      "title": "A Linguistic Analysis of Instagram Captions Between Adolescent Suicide Decedents and Living Controls.",
+      "authors": "Alex Walker, Ayah Zirikly, Melissa D. Stockbridge, H. C. Wilcox",
       "venue": "Crisis",
       "year": "2023",
       "citations": 3,
       "url": "https://doi.org/10.1027/0227-5910/a000928"
     },
     {
-      "title": "Overview of the CLPsych 2022 Shared Task: Capturing Moments of Change in Longitudinal User Posts",
-      "authors": "Adam Tsakalidis, Jenny Chim, Iman Bilal, Ayah Zirikly, Dana Atzil-Slonim, Fabio Nanni, Philip Resnik, Manas Gaur, Kaushik Roy, Becky Inkster, Jeff Leintz, Maria Liakata",
-      "venue": "CLPsych Workshop @ NAACL",
-      "year": "2022",
-      "citations": 61,
-      "url": "https://doi.org/10.18653/v1/2022.clpsych-1.16"
+      "title": "Conference on Health, Inference, and Learning, CHIL 2023, Broad Institute of MIT and Harvard (Merkin Building), 415 Main Street, Cambridge, MA, USA",
+      "authors": "Gerardo Flores, George H. Chen, T. Pollard, Ayah Zirikly, Michael C. Hughes, Tasmie Sarker, Joyce Ho, Tristan Naumann",
+      "venue": "ACM Conference on Health, Inference, and Learning",
+      "year": "2023",
+      "citations": 0,
+      "url": ""
     },
     {
       "title": "Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires",
       "authors": "Thong Nguyen, Andrew Yates, Ayah Zirikly, Bart Desmet, Arman Cohan",
-      "venue": "ACL",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2022",
       "citations": 69,
-      "url": "https://doi.org/10.48550/arXiv.2204.10432"
+      "url": "http://arxiv.org/pdf/2204.10432"
+    },
+    {
+      "title": "Overview of the CLPsych 2022 Shared Task: Capturing Moments of Change in Longitudinal User Posts",
+      "authors": "Adam Tsakalidis, Jenny Chim, I. Bilal, Ayah Zirikly, Dana Atzil-Slonim, F. Nanni, P. Resnik, Manas Gaur, Kaushik Roy, B. Inkster, Jeff Leintz, M. Liakata",
+      "venue": "Workshop on Computational Linguistics and Clinical Psychology",
+      "year": "2022",
+      "citations": 62,
+      "url": "https://aclanthology.org/2022.clpsych-1.16.pdf"
     },
     {
       "title": "Explaining Models of Mental Health via Clinically Grounded Auxiliary Tasks",
-      "authors": "Ayah Zirikly, Mark Dredze",
-      "venue": "CLPsych Workshop @ NAACL",
+      "authors": "Ayah Zirikly, M. Dredze",
+      "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2022",
       "citations": 23,
-      "url": "https://doi.org/10.18653/v1/2022.clpsych-1.3"
+      "url": "https://aclanthology.org/2022.clpsych-1.3.pdf"
     },
     {
       "title": "Information Extraction Framework for Disability Determination Using a Mental Functioning Use-Case",
-      "authors": "Ayah Zirikly, Bart Desmet, Denis R. Newman-Griffis, Beth Marfeo, Christine M. McDonough, Howard Goldman, Leighton Chan",
+      "authors": "Ayah Zirikly, Bart Desmet, Denis R. Newman-Griffis, E. Marfeo, Christine M. McDonough, Howard Goldman, L. Chan",
       "venue": "JMIR Medical Informatics",
       "year": "2022",
       "citations": 9,
-      "url": "https://doi.org/10.2196/32245"
+      "url": "https://medinform.jmir.org/2022/3/e32245/PDF"
+    },
+    {
+      "title": "Machine Learning for Health (ML4H) 2022",
+      "authors": "Subhrajit Roy, S. Pfohl, G. Tadesse, Luis Oala, Fabian Falck, Yuyin Zhou, Liyue Shen, Ghada Zamzmi, Purity Mugambi, Ayah Zirikly, Matthew B. A. McDermott, Emily Alsentzer",
+      "venue": "ML4H@NeurIPS",
+      "year": "2022",
+      "citations": 5,
+      "url": ""
     },
     {
       "title": "A Whole-Person Function Dictionary for the Mobility, Self-Care and Domestic Life Domains: a Seedset Expansion Approach",
-      "authors": "Ayah Zirikly, Bart Desmet, Julia Porcino, Jonathan Camacho Maldonado, Pei-Shu Ho, Rene J. Silva, Maryanne Sacco",
-      "venue": "LREC",
+      "authors": "Ayah Zirikly, Bart Desmet, Julia Porcino, Jonathan Camacho Maldonado, Pei-Shu Ho, R. J. Silva, Maryanne Sacco",
+      "venue": "International Conference on Language Resources and Evaluation",
       "year": "2022",
       "citations": 3,
       "url": "https://doi.org/10.63317/3fpu4me7apmf"
     },
     {
-      "title": "Informatics Research on Mental Health Functioning: Decision Support for the SSA Disability Program",
-      "authors": "Howard Goldman, Julia Porcino, Guy Divita, Ayah Zirikly, Bart Desmet, Maryanne Sacco, Beth Marfeo, Christine M. McDonough, Ellen Rasch, Leighton Chan",
+      "title": "Conference on Health, Inference, and Learning (CHIL) 2022",
+      "authors": "Gerardo Flores, George H. Chen, T. Pollard, Ayah Zirikly, Michael C. Hughes, Tasmie Sarker, Joyce Ho, Tristan Naumann",
+      "venue": "ACM Conference on Health, Inference, and Learning",
+      "year": "2022",
+      "citations": 2,
+      "url": ""
+    },
+    {
+      "title": "Informatics Research on Mental Health Functioning – Decision Support for the SSA Disability Program",
+      "authors": "H. Goldman, Julia Porcino, Guy Divita, Ayah Zirikly, Bart Desmet, Maryanne Sacco, E. Marfeo, Christine M. McDonough, E. Rasch, L. Chan",
       "venue": "Psychiatric Services",
       "year": "2022",
       "citations": 1,
       "url": "https://doi.org/10.1176/appi.ps.202200056"
     },
     {
-      "title": "Ambiguity in medical concept normalization: An analysis of types and coverage in electronic health record datasets",
-      "authors": "Denis R. Newman-Griffis, Guy Divita, Bart Desmet, Ayah Zirikly, Carolyn P. Rosé, Eric Fosler-Lussier",
-      "venue": "Journal of the American Medical Informatics Association",
-      "year": "2021",
-      "citations": 30,
-      "url": "https://doi.org/10.1093/jamia/ocaa269"
-    },
-    {
-      "title": "Computer system, method and program for performing multilingual named entity recognition model transfer",
-      "authors": "Ayah Zirikly, Mona Diab",
-      "venue": "US Patent",
-      "year": "2021",
-      "citations": 26,
+      "title": "Application of Natural Language Processing to Identify Social Needs from The Electronic Health Record's Free-Text Notes",
+      "authors": "Geoffrey M. Gray, L. Ahumada, Ayah Zirikly, Masoud Rouhizadeh, Tom M. Richards, E. Hatef",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": "2022",
+      "citations": 0,
       "url": ""
     },
     {
-      "title": "SPARSE ENCODING FOR MORE-INTERPRETABLE FEATURE-SELECTING REPRESENTATIONS IN PROBABILISTIC MATRIX FACTORIZATION",
-      "authors": "Joshua C. Chang, P. Fletcher, Ju Han, Ted L. Chang, Shashaank Vattikuti, Bart Desmet, Ayah Zirikly, Carson Chow",
-      "venue": "ICLR",
+      "title": "An Information Extraction Framework for Disability Determination: A mental Functioning Use-Case (Preprint)",
+      "authors": "Ayah Zirikly, Bart Desmet, Denis R. Newman-Griffis, Beth Marfeo, Christine M. McDonough, H. Goldman, L. Chan",
+      "venue": "",
       "year": "2021",
-      "citations": 8,
-      "url": "https://doi.org/10.48550/arXiv.2012.04171"
+      "citations": 0,
+      "url": "https://medinform.jmir.org/2022/3/e32245/PDF"
+    },
+    {
+      "title": "Ambiguity in medical concept normalization: An analysis of types and coverage in electronic health record datasets",
+      "authors": "Denis R. Newman-Griffis, Guy Divita, Bart Desmet, Ayah Zirikly, C. Rosé, E. Fosler-Lussier",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": "2020",
+      "citations": 29,
+      "url": "https://doi.org/10.1093/jamia/ocaa269"
     },
     {
       "title": "A comprehensive study of mobility functioning information in clinical notes: entity hierarchy, corpus annotation, and sequence labeling",
-      "authors": "Thanh Thieu, Jonathan Camacho Maldonado, Pei-Shu Ho, Min Ding, Alex R. Marr, D. Brandt, Denis R. Newman-Griffis, Ayah Zirikly, Leighton Chan, Ellen Rasch",
-      "venue": "International Journal of Medical Informatics",
+      "authors": "Thanh Thieu, Jonathan Camacho Maldonado, Pei-Shu Ho, Min Ding, Alex R Marr, D. Brandt, Denis R. Newman-Griffis, Ayah Zirikly, L. Chan, E. Rasch",
+      "venue": "Int. J. Medical Informatics",
       "year": "2020",
       "citations": 21,
       "url": "https://doi.org/10.1016/j.ijmedinf.2020.104351"
     },
     {
-      "title": "Angelfish: Building a Structurally Diverse Clinical Document Corpus",
-      "authors": "Guy Divita, Bart Desmet, Ayah Zirikly, Luke Breitfeller, Carolyn P. Rosé",
-      "venue": "AMIA Annual Symposium",
+      "title": "SPARSE ENCODING FOR MORE-INTERPRETABLE FEATURE-SELECTING REPRESENTATIONS IN PROBABILISTIC MATRIX FACTORIZATION",
+      "authors": "Joshua C. Chang, P. Fletcher, Ju Han, Ted L.Chang, Shashaank Vattikuti, Bart Desmet, Ayah Zirikly, C. Chow",
+      "venue": "International Conference on Learning Representations",
       "year": "2020",
-      "citations": 1,
-      "url": ""
-    },
-    {
-      "title": "Curating Annotated Corpora for Functioning Information",
-      "authors": "Rene J. Silva, Chunxiao Zhou, Bart Desmet, Ayah Zirikly, Alex R. Marr, Maryanne Sacco, Pei-Shu Ho, Jonathan Camacho Maldonado, Julia Porcino, Guy Divita, Ellen Rasch",
-      "venue": "AMIA Annual Symposium",
-      "year": "2020",
-      "citations": 0,
-      "url": ""
-    },
-    {
-      "title": "Experiences and Challenges in Manual Annotation of Functioning Information in Medical Records",
-      "authors": "Jonathan Camacho Maldonado, Pei-Shu Ho, Rene J. Silva, Alex R. Marr, Julia Porcino, Maryanne Sacco, Ayah Zirikly, Leighton Chan, Ellen Rasch",
-      "venue": "AMIA Annual Symposium",
-      "year": "2020",
-      "citations": 0,
-      "url": ""
+      "citations": 8,
+      "url": "https://arxiv.org/abs/2012.04171"
     },
     {
       "title": "Development of Natural Language Processing Tools to Support Determination of Federal Disability Benefits in the U.S.",
-      "authors": "Bart Desmet, Julia Porcino, Ayah Zirikly, Denis Newman-Griffis, Guy Divita, Ellen Rasch",
+      "authors": "Bart Desmet, Julia Porcino, Ayah Zirikly, Denis Newman-Griffis, Guy Divita, E. Rasch",
       "venue": "LT4GOV",
       "year": "2020",
       "citations": 5,
       "url": ""
     },
     {
-      "title": "CLPsych 2019 Shared Task: Predicting the Degree of Suicide Risk in Reddit Posts",
-      "authors": "Ayah Zirikly, Philip Resnik, Özlem Uzuner, Kristy Hollingshead",
-      "venue": "CLPsych Workshop @ NAACL",
-      "year": "2019",
-      "citations": 245,
+      "title": "Angelfish: Building a Structurally Diverse Clinical Document Corpus",
+      "authors": "Guy Divita, Bart Desmet, Ayah Zirikly, Luke Breitfeller, C. Rosé",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": "2020",
+      "citations": 1,
       "url": ""
     },
     {
+      "title": "Experiences and Challenges in Manual Annotation of Functioning Information in Medical Records",
+      "authors": "Jonathan Camacho Maldonado, Pei-Shu Ho, R. J. Silva, Alex R Marr, Julia Porcino, Maryanne Sacco, Ayah Zirikly, L. Chan, E. Rasch",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": "2020",
+      "citations": 0,
+      "url": ""
+    },
+    {
+      "title": "Curating Annotated Corpora for Functioning Information",
+      "authors": "R. J. Silva, Chunxiao Zhou, Bart Desmet, Ayah Zirikly, Alex R Marr, Maryanne Sacco, Pei-Shu Ho, Jonathan Camacho Maldonado, Julia Porcino, Guy Divita, E. Rasch",
+      "venue": "American Medical Informatics Association Annual Symposium",
+      "year": "2020",
+      "citations": 0,
+      "url": ""
+    },
+    {
+      "title": "CLPsych 2019 Shared Task: Predicting the Degree of Suicide Risk in Reddit Posts",
+      "authors": "Ayah Zirikly, P. Resnik, Özlem Uzuner, Kristy Hollingshead",
+      "venue": "Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology",
+      "year": "2019",
+      "citations": 249,
+      "url": "https://doi.org/10.18653/v1/W19-3003"
+    },
+    {
+      "title": "Broadening horizons: the case for capturing function and the role of health informatics in its use",
+      "authors": "Denis Newman-Griffis, Julia Porcino, Ayah Zirikly, Thanh Thieu, Jonathan Camacho Maldonado, Pei-Shu Ho, Min Ding, L. Chan, E. Rasch",
+      "venue": "BMC Public Health",
+      "year": "2019",
+      "citations": 24,
+      "url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-019-7630-3"
+    },
+    {
+      "title": "Classifying the reported ability in clinical mobility descriptions",
+      "authors": "Denis Newman-Griffis, Ayah Zirikly, Guy Divita, Bart Desmet",
+      "venue": "BioNLP@ACL",
+      "year": "2019",
+      "citations": 11,
+      "url": "https://www.aclweb.org/anthology/W19-5001.pdf"
+    },
+    {
       "title": "Bootstrapping a Mobility Dictionary from a Seed Set",
-      "authors": "Ayah Zirikly, Denis R. Newman-Griffis, Julia Porcino, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R. Marr",
-      "venue": "AMIA Annual Symposium",
+      "authors": "Ayah Zirikly, Denis R. Newman-Griffis, Julia Porcino, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R Marr",
+      "venue": "American Medical Informatics Association Annual Symposium",
       "year": "2019",
       "citations": 0,
       "url": ""
     },
     {
       "title": "Automated classification of mobility activities in free text clinical narratives",
-      "authors": "Denis R. Newman-Griffis, Ayah Zirikly, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R. Marr, Alyssa Lai, Eric Fosler-Lussier",
-      "venue": "AMIA Annual Symposium",
+      "authors": "Denis R. Newman-Griffis, Ayah Zirikly, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R Marr, A. Lai, E. Fosler-Lussier",
+      "venue": "American Medical Informatics Association Annual Symposium",
       "year": "2019",
       "citations": 0,
       "url": ""
     },
     {
-      "title": "Broadening horizons: the case for capturing function and the role of health informatics in its use",
-      "authors": "Denis Newman-Griffis, Julia Porcino, Ayah Zirikly, Thanh Thieu, Jonathan Camacho Maldonado, Pei-Shu Ho, Min Ding, Leighton Chan, Ellen Rasch",
-      "venue": "BMC Public Health",
-      "year": "2019",
-      "citations": 24,
-      "url": "https://doi.org/10.1186/s12889-019-7630-3"
-    },
-    {
-      "title": "Classifying the reported ability in clinical mobility descriptions",
-      "authors": "Denis Newman-Griffis, Ayah Zirikly, Guy Divita, Bart Desmet",
-      "venue": "BioNLP @ ACL",
-      "year": "2019",
-      "citations": 11,
-      "url": "https://doi.org/10.18653/v1/W19-5001"
-    },
-    {
       "title": "Expert, Crowdsourced, and Machine Assessment of Suicide Risk via Online Postings",
-      "authors": "Han-Chin Shing, Suraj Nair, Ayah Zirikly, Meir Friedenberg, Hal Daumé III, Philip Resnik",
-      "venue": "CLPsych Workshop @ NAACL",
+      "authors": "Han-Chin Shing, Suraj Nair, Ayah Zirikly, Meir Friedenberg, Hal Daumé, P. Resnik",
+      "venue": "CLPsych@NAACL-HTL",
       "year": "2018",
-      "citations": 230,
-      "url": "https://doi.org/10.18653/v1/W18-0603"
+      "citations": 232,
+      "url": "https://www.aclweb.org/anthology/W18-0603.pdf"
     },
     {
       "title": "RSDD-Time: Temporal Annotation of Self-Reported Mental Health Diagnoses",
       "authors": "Sean MacAvaney, Bart Desmet, Arman Cohan, Luca Soldaini, Andrew Yates, Ayah Zirikly, Nazli Goharian",
-      "venue": "CLPsych Workshop @ NAACL",
+      "venue": "CLPsych@NAACL-HTL",
       "year": "2018",
-      "citations": 40,
-      "url": "https://doi.org/10.18653/v1/W18-0618"
+      "citations": 42,
+      "url": "https://www.aclweb.org/anthology/W18-0618.pdf"
     },
     {
       "title": "Embedding Transfer for Low-Resource Medical Named Entity Recognition: A Case Study on Patient Mobility",
       "authors": "Denis Newman-Griffis, Ayah Zirikly",
-      "venue": "BioNLP @ ACL",
+      "venue": "Workshop on Biomedical Natural Language Processing",
       "year": "2018",
       "citations": 37,
-      "url": "https://doi.org/10.18653/v1/W18-2301"
+      "url": "https://www.aclweb.org/anthology/W18-2301.pdf"
+    },
+    {
+      "title": "From Preprocessing to Named Entity Recognition, Linking and Clustering in Multilingual, Cross-Lingual, High-Low Resources Settings",
+      "authors": "Ayah Zirikly",
+      "venue": "",
+      "year": "2018",
+      "citations": 0,
+      "url": ""
     },
     {
       "title": "The GW/UMD CLPsych 2016 Shared Task System",
-      "authors": "Ayah Zirikly, Varun Kumar, Philip Resnik",
-      "venue": "CLPsych Workshop @ NAACL",
+      "authors": "Ayah Zirikly, Varun Kumar, P. Resnik",
+      "venue": "CLPsych@HLT-NAACL",
       "year": "2016",
       "citations": 11,
-      "url": "https://doi.org/10.18653/v1/W16-0321"
+      "url": "https://doi.org/10.18653/v1/w16-0321"
     },
     {
       "title": "The GW/LT3 VarDial 2016 Shared Task System for Dialects and Similar Languages Detection",
       "authors": "Ayah Zirikly, Bart Desmet, Mona T. Diab",
-      "venue": "VarDial @ COLING",
+      "venue": "VarDial@COLING",
       "year": "2016",
       "citations": 11,
       "url": ""
@@ -461,26 +357,26 @@
     {
       "title": "The Power of Language Music: Arabic Lemmatization through Patterns",
       "authors": "Mohammed Attia, Ayah Zirikly, Mona T. Diab",
-      "venue": "CogALex @ COLING",
+      "venue": "CogALex@COLING",
       "year": "2016",
       "citations": 8,
       "url": ""
     },
     {
-      "title": "Cross-lingual Transfer of Named Entity Recognizers without Parallel Corpora",
-      "authors": "Ayah Zirikly",
-      "venue": "ACL",
-      "year": "2015",
-      "citations": 50,
-      "url": "https://doi.org/10.3115/v1/P15-2064"
-    },
-    {
       "title": "Named Entity Recognition for Arabic Social Media",
       "authors": "Ayah Zirikly, Mona T. Diab",
-      "venue": "VS @ NAACL",
+      "venue": "VS@HLT-NAACL",
       "year": "2015",
       "citations": 59,
-      "url": "https://doi.org/10.3115/v1/W15-1524"
+      "url": "https://doi.org/10.3115/v1/w15-1524"
+    },
+    {
+      "title": "Cross-lingual Transfer of Named Entity Recognizers without Parallel Corpora",
+      "authors": "Ayah Zirikly",
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "year": "2015",
+      "citations": 50,
+      "url": "https://www.aclweb.org/anthology/P15-2064.pdf"
     },
     {
       "title": "GWU English TAC-KBP EL Diagnostic Task with Name Mention",
@@ -493,18 +389,18 @@
     {
       "title": "Named Entity Recognition System for Dialectal Arabic",
       "authors": "Ayah Zirikly, Mona T. Diab",
-      "venue": "ANLP @ EMNLP",
+      "venue": "ANLP@EMNLP",
       "year": "2014",
       "citations": 16,
-      "url": ""
+      "url": "https://doi.org/10.3115/v1/W14-3610"
     },
     {
       "title": "ANEAR: Automatic Named Entity Aliasing Resolution",
       "authors": "Ayah Zirikly, Mona T. Diab",
-      "venue": "NLDB",
+      "venue": "International Conference on Applications of Natural Language to Data Bases",
       "year": "2013",
       "citations": 2,
-      "url": "https://doi.org/10.1007/978-3-642-38824-8_18"
+      "url": "http://www.seas.gwu.edu/%7Emtdiab/files/publications/refereed/9.pdf"
     }
   ]
 }
