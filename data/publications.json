@@ -1,7 +1,23 @@
 {
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-07-06",
   "semantic_scholar_author_id": "2216860",
   "publications": [
+    {
+      "title": "Overview of the CLPsych 2026 Shared Task: Capturing and Characterizing Mental Health Changes through Social Media Timeline Dynamics",
+      "authors": "I. Ali, Talia Tseriotou, Guy Dvir, Callum Chan, Yuxiang Zhou, Juan Antonio Lossio-Ventura, Ayal Klein, Aya Shamir, Dan Sayda, Anthony Hills, Ayah Zirikly, Diana Inkpen, Dana Atzil-Slonim, Maria Liakata",
+      "venue": "Workshop on Computational Linguistics and Clinical Psychology",
+      "year": "2026",
+      "citations": 1,
+      "url": "https://aclanthology.org/2026.clpsych-1.32.pdf"
+    },
+    {
+      "title": "FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources",
+      "authors": "M. Nguyen, Nidhi Soley, Ayah Zirikly, João Sedoc, C. Taylor",
+      "venue": "Workshop on Biomedical Natural Language Processing",
+      "year": "2026",
+      "citations": 0,
+      "url": "https://aclanthology.org/2026.bionlp-1.82.pdf"
+    },
     {
       "title": "Detecting Dataset Bias in Medical AI: A Generalized and Modality-Agnostic Auditing Framework",
       "authors": "Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, Mathias Unberath",
@@ -19,20 +35,20 @@
       "url": "https://doi.org/10.48550/arXiv.2511.03102"
     },
     {
-      "title": "Assessing genetic counseling efficiency with natural language processing",
-      "authors": "M. Nguyen, Carolyn D Applegate, B. Murray, Ayah Zirikly, C. Tichnell, Catherine Gordon, L. Yanek, Cynthia A James, C. O. Taylor",
-      "venue": "J. Am. Medical Informatics Assoc.",
-      "year": "2025",
-      "citations": 1,
-      "url": "https://doi.org/10.1093/jamia/ocaf190"
-    },
-    {
       "title": "Testing a Dashboard Intervention for Tracking Digital Social Media Activity in Clinical Care of Individuals With Mood and Anxiety Disorders: Protocol and Design Considerations for a Pragmatic Randomized Trial",
       "authors": "Brittany Nesbitt, Danielle Virgadamo, Carlos Aguirre, Matthew DeCamp, M. Dredze, Keith Harrigian, Tenzin C Lhaksampa, Jennifer M. Meuchel, Aja M Meyer, Alex Walker, Ayah Zirikly, M. Chisolm, P. Zandi, L. Miller",
       "venue": "JMIR Research Protocols",
       "year": "2025",
-      "citations": 1,
+      "citations": 2,
       "url": "https://doi.org/10.2196/63279"
+    },
+    {
+      "title": "Assessing genetic counseling efficiency with natural language processing",
+      "authors": "M. Nguyen, Carolyn D Applegate, B. Murray, Ayah Zirikly, C. Tichnell, Catherine Gordon, L. Yanek, Cynthia A James, C. Taylor",
+      "venue": "J. Am. Medical Informatics Assoc.",
+      "year": "2025",
+      "citations": 1,
+      "url": "https://doi.org/10.1093/jamia/ocaf190"
     },
     {
       "title": "Outreach to Adolescents in Crisis on Social Media, YouthLine's Safe Social Spaces, 2019 to 2024.",
@@ -47,16 +63,24 @@
       "authors": "L. Miller, Tenzin C Lhaksampa, Alex Walker, Carlos Aguirre, M. DeCamp, Keith Harrigian, Jennifer M. Meuchel, Aja M Meyer, Brittany Nesbitt, Sazal Sthapit, Jason Straub, Danielle Virgadamo, Ayah Zirikly, M. Dredze, M. Chisolm, P. Zandi",
       "venue": "JMIR Mental Health",
       "year": "2025",
-      "citations": 0,
+      "citations": 1,
       "url": "https://doi.org/10.2196/74212"
+    },
+    {
+      "title": "Measuring Depression Severity With CGI-S Scores From Clinical Notes Using Large Language Models: Validation Study (Preprint)",
+      "authors": "Kevin Li, Ayah Zirikly, Sarah C. Collica, Fernando S. Goes, Congwen Zhao, T. Nguyen, Jane P. Gagliardi, Benjamin A. Goldstein, H. Hong, Elizabeth A Stuart, Peter P. Zandi",
+      "venue": "JMIR Formative Research",
+      "year": "2025",
+      "citations": 0,
+      "url": "https://doi.org/10.2196/86906"
     },
     {
       "title": "Overview of the CLPsych 2024 Shared Task: Leveraging Large Language Models to Identify Evidence of Suicidality Risk in Online Posts",
       "authors": "Jenny Chim, Adam Tsakalidis, Dimitris Gkoumas, Dana Atzil-Slonim, Y. Ophir, Ayah Zirikly, Philip Resnik, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2024",
-      "citations": 32,
-      "url": "https://doi.org/10.18653/v1/2024.clpsych-1.15"
+      "citations": 34,
+      "url": "https://aclanthology.org/2024.clpsych-1.15.pdf"
     },
     {
       "title": "Trends in Glucagon-Like Peptide-1 Receptor Agonist Social Media Posts Using Artificial Intelligence",
@@ -95,7 +119,7 @@
       "authors": "Keith Harrigian, Ayah Zirikly, Brant Chee, Alya Ahmad, A. Links, S. Saha, M. Beach, M. Dredze",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2023",
-      "citations": 28,
+      "citations": 29,
       "url": "https://aclanthology.org/2023.acl-short.28.pdf"
     },
     {
@@ -135,7 +159,7 @@
       "authors": "Thong Nguyen, Andrew Yates, Ayah Zirikly, Bart Desmet, Arman Cohan",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2022",
-      "citations": 69,
+      "citations": 70,
       "url": "http://arxiv.org/pdf/2204.10432"
     },
     {
@@ -143,7 +167,7 @@
       "authors": "Adam Tsakalidis, Jenny Chim, I. Bilal, Ayah Zirikly, Dana Atzil-Slonim, F. Nanni, P. Resnik, Manas Gaur, Kaushik Roy, B. Inkster, Jeff Leintz, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2022",
-      "citations": 62,
+      "citations": 64,
       "url": "https://aclanthology.org/2022.clpsych-1.16.pdf"
     },
     {
@@ -151,7 +175,7 @@
       "authors": "Ayah Zirikly, M. Dredze",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2022",
-      "citations": 23,
+      "citations": 24,
       "url": "https://aclanthology.org/2022.clpsych-1.3.pdf"
     },
     {
@@ -271,8 +295,8 @@
       "authors": "Ayah Zirikly, P. Resnik, Özlem Uzuner, Kristy Hollingshead",
       "venue": "Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2019",
-      "citations": 249,
-      "url": "https://doi.org/10.18653/v1/W19-3003"
+      "citations": 252,
+      "url": "https://doi.org/10.18653/v1/w19-3003"
     },
     {
       "title": "Broadening horizons: the case for capturing function and the role of health informatics in its use",
@@ -311,7 +335,7 @@
       "authors": "Han-Chin Shing, Suraj Nair, Ayah Zirikly, Meir Friedenberg, Hal Daumé, P. Resnik",
       "venue": "CLPsych@NAACL-HTL",
       "year": "2018",
-      "citations": 232,
+      "citations": 234,
       "url": "https://www.aclweb.org/anthology/W18-0603.pdf"
     },
     {
@@ -343,7 +367,7 @@
       "authors": "Ayah Zirikly, Varun Kumar, P. Resnik",
       "venue": "CLPsych@HLT-NAACL",
       "year": "2016",
-      "citations": 11,
+      "citations": 12,
       "url": "https://doi.org/10.18653/v1/w16-0321"
     },
     {
@@ -392,7 +416,7 @@
       "venue": "ANLP@EMNLP",
       "year": "2014",
       "citations": 16,
-      "url": "https://doi.org/10.3115/v1/W14-3610"
+      "url": "https://doi.org/10.3115/v1/w14-3610"
     },
     {
       "title": "ANEAR: Automatic Named Entity Aliasing Resolution",
