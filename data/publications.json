@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-27",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
@@ -9,6 +9,14 @@
       "year": "2026",
       "citations": 9,
       "url": "https://aclanthology.org/2026.clpsych-1.32.pdf"
+    },
+    {
+      "title": "Temporal Analysis of Patient-Centered Sentiment in Mental Health Clinical Narratives: A Retrospective Cohort Study (Preprint)",
+      "authors": "A Ahmed Morsy, Carson J Peters, Leslie Miller, Ayah Zirikly",
+      "venue": "Journal of Medical Internet Research",
+      "year": "2026",
+      "citations": 0,
+      "url": "https://doi.org/10.2196/96771"
     },
     {
       "title": "FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources",
@@ -31,7 +39,7 @@
       "authors": "Saad Mankarious, Ayah Zirikly",
       "venue": "arXiv.org",
       "year": "2025",
-      "citations": 6,
+      "citations": 7,
       "url": "https://doi.org/10.48550/arXiv.2511.03102"
     },
     {
@@ -119,7 +127,7 @@
       "authors": "Keith Harrigian, Ayah Zirikly, Brant Chee, Alya Ahmad, A. Links, S. Saha, M. Beach, M. Dredze",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2023",
-      "citations": 30,
+      "citations": 32,
       "url": "https://aclanthology.org/2023.acl-short.28.pdf"
     },
     {
@@ -295,7 +303,7 @@
       "authors": "Ayah Zirikly, P. Resnik, Özlem Uzuner, Kristy Hollingshead",
       "venue": "Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2019",
-      "citations": 253,
+      "citations": 254,
       "url": "https://doi.org/10.18653/v1/w19-3003"
     },
     {
