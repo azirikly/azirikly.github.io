@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27",
+  "last_updated": "2026-08-03",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
@@ -7,7 +7,7 @@
       "authors": "I. Ali, Talia Tseriotou, Guy Dvir, Callum Chan, Yuxiang Zhou, Juan Antonio Lossio-Ventura, Ayal Klein, Aya Shamir, Dan Sayda, Anthony Hills, Ayah Zirikly, Diana Inkpen, Dana Atzil-Slonim, Maria Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2026",
-      "citations": 9,
+      "citations": 10,
       "url": "https://aclanthology.org/2026.clpsych-1.32.pdf"
     },
     {
@@ -31,7 +31,7 @@
       "authors": "Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, Mathias Unberath",
       "venue": "arXiv.org",
       "year": "2025",
-      "citations": 7,
+      "citations": 8,
       "url": "https://doi.org/10.48550/arXiv.2503.09969"
     },
     {
@@ -56,7 +56,7 @@
       "venue": "J. Am. Medical Informatics Assoc.",
       "year": "2025",
       "citations": 1,
-      "url": "https://doi.org/10.1093/jamia/ocaf190"
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12743353/pdf/nihms-2122222.pdf"
     },
     {
       "title": "Outreach to Adolescents in Crisis on Social Media, YouthLine's Safe Social Spaces, 2019 to 2024.",
@@ -95,7 +95,7 @@
       "authors": "Aamir Javaid, Sruthika Baviriseaty, Rehana Javaid, Ayah Zirikly, Harshita Kukreja, Chang H. Kim, Michael J. Blaha, Roger S. Blumenthal, Seth S. Martin, Francoise A. Marvel",
       "venue": "JACC: Advances",
       "year": "2024",
-      "citations": 17,
+      "citations": 18,
       "url": "https://doi.org/10.1016/j.jacadv.2024.101182"
     },
     {
@@ -167,7 +167,7 @@
       "authors": "Thong Nguyen, Andrew Yates, Ayah Zirikly, Bart Desmet, Arman Cohan",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2022",
-      "citations": 72,
+      "citations": 73,
       "url": "http://arxiv.org/pdf/2204.10432"
     },
     {
@@ -175,7 +175,7 @@
       "authors": "Adam Tsakalidis, Jenny Chim, I. Bilal, Ayah Zirikly, Dana Atzil-Slonim, F. Nanni, P. Resnik, Manas Gaur, Kaushik Roy, B. Inkster, Jeff Leintz, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2022",
-      "citations": 70,
+      "citations": 71,
       "url": "https://aclanthology.org/2022.clpsych-1.16.pdf"
     },
     {
@@ -208,7 +208,7 @@
       "venue": "International Conference on Language Resources and Evaluation",
       "year": "2022",
       "citations": 3,
-      "url": "https://doi.org/10.63317/3fpu4me7apmf"
+      "url": "http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.305.pdf"
     },
     {
       "title": "Conference on Health, Inference, and Learning (CHIL) 2022",
@@ -224,7 +224,7 @@
       "venue": "Psychiatric Services",
       "year": "2022",
       "citations": 1,
-      "url": "https://doi.org/10.1176/appi.ps.202200056"
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10501504/pdf/nihms-1927433.pdf"
     },
     {
       "title": "Application of Natural Language Processing to Identify Social Needs from The Electronic Health Record's Free-Text Notes",
@@ -256,7 +256,7 @@
       "venue": "Int. J. Medical Informatics",
       "year": "2020",
       "citations": 21,
-      "url": "https://doi.org/10.1016/j.ijmedinf.2020.104351"
+      "url": "https://www.sciencedirect.com/science/article/pii/S1386505620318876/pdf"
     },
     {
       "title": "SPARSE ENCODING FOR MORE-INTERPRETABLE FEATURE-SELECTING REPRESENTATIONS IN PROBABILISTIC MATRIX FACTORIZATION",
