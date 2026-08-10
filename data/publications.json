@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-10",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "title": "Temporal Analysis of Patient-Centered Sentiment in Mental Health Clinical Narratives: A Retrospective Cohort Study (Preprint)",
-      "authors": "A Ahmed Morsy, Carson J Peters, Leslie Miller, Ayah Zirikly",
+      "authors": "A Ahmed Morsy, Carson J. Peters, Leslie Miller, Ayah Zirikly",
       "venue": "Journal of Medical Internet Research",
       "year": "2026",
       "citations": 0,
@@ -21,7 +21,7 @@
     {
       "title": "FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources",
       "authors": "M. Nguyen, Nidhi Soley, Ayah Zirikly, João Sedoc, C. Taylor",
-      "venue": "Workshop on Biomedical Natural Language Processing",
+      "venue": "BioNLP@ACL",
       "year": "2026",
       "citations": 0,
       "url": "https://aclanthology.org/2026.bionlp-1.82.pdf"
@@ -95,7 +95,7 @@
       "authors": "Aamir Javaid, Sruthika Baviriseaty, Rehana Javaid, Ayah Zirikly, Harshita Kukreja, Chang H. Kim, Michael J. Blaha, Roger S. Blumenthal, Seth S. Martin, Francoise A. Marvel",
       "venue": "JACC: Advances",
       "year": "2024",
-      "citations": 18,
+      "citations": 19,
       "url": "https://doi.org/10.1016/j.jacadv.2024.101182"
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "title": "A Linguistic Analysis of Instagram Captions Between Adolescent Suicide Decedents and Living Controls.",
-      "authors": "Alex Walker, Ayah Zirikly, Melissa D. Stockbridge, H. C. Wilcox",
+      "authors": "Alex Walker, Ayah Zirikly, M. Stockbridge, H. C. Wilcox",
       "venue": "Crisis",
       "year": "2023",
       "citations": 3,
@@ -167,7 +167,7 @@
       "authors": "Thong Nguyen, Andrew Yates, Ayah Zirikly, Bart Desmet, Arman Cohan",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2022",
-      "citations": 73,
+      "citations": 74,
       "url": "http://arxiv.org/pdf/2204.10432"
     },
     {
@@ -247,7 +247,7 @@
       "authors": "Denis R. Newman-Griffis, G. Divita, Bart Desmet, Ayah Zirikly, C. Rosé, E. Fosler-Lussier",
       "venue": "J. Am. Medical Informatics Assoc.",
       "year": "2020",
-      "citations": 31,
+      "citations": 32,
       "url": "https://doi.org/10.1093/jamia/ocaa269"
     },
     {
@@ -303,7 +303,7 @@
       "authors": "Ayah Zirikly, P. Resnik, Özlem Uzuner, Kristy Hollingshead",
       "venue": "Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2019",
-      "citations": 254,
+      "citations": 255,
       "url": "https://doi.org/10.18653/v1/w19-3003"
     },
     {
