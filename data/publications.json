@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10",
+  "last_updated": "2026-08-17",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
@@ -7,7 +7,7 @@
       "authors": "I. Ali, Talia Tseriotou, Guy Dvir, Callum Chan, Yuxiang Zhou, Juan Antonio Lossio-Ventura, Ayal Klein, Aya Shamir, Dan Sayda, Anthony Hills, Ayah Zirikly, Diana Inkpen, Dana Atzil-Slonim, Maria Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2026",
-      "citations": 10,
+      "citations": 12,
       "url": "https://aclanthology.org/2026.clpsych-1.32.pdf"
     },
     {
@@ -75,7 +75,7 @@
       "url": "https://doi.org/10.2196/74212"
     },
     {
-      "title": "Measuring Depression Severity With CGI-S Scores From Clinical Notes Using Large Language Models: Validation Study (Preprint)",
+      "title": "Measuring Depression Severity With Clinical Global Impression–Severity Scale Scores From Clinical Notes Using Large Language Models: Validation Study",
       "authors": "Kevin Li, Ayah Zirikly, Sarah C. Collica, Fernando S. Goes, Congwen Zhao, T. Nguyen, Jane P. Gagliardi, Benjamin A. Goldstein, H. Hong, Elizabeth A Stuart, Peter P. Zandi",
       "venue": "JMIR Formative Research",
       "year": "2025",
@@ -87,7 +87,7 @@
       "authors": "Jenny Chim, Adam Tsakalidis, Dimitris Gkoumas, Dana Atzil-Slonim, Y. Ophir, Ayah Zirikly, Philip Resnik, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2024",
-      "citations": 34,
+      "citations": 35,
       "url": "https://aclanthology.org/2024.clpsych-1.15.pdf"
     },
     {
@@ -127,7 +127,7 @@
       "authors": "Keith Harrigian, Ayah Zirikly, Brant Chee, Alya Ahmad, A. Links, S. Saha, M. Beach, M. Dredze",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2023",
-      "citations": 32,
+      "citations": 33,
       "url": "https://aclanthology.org/2023.acl-short.28.pdf"
     },
     {
@@ -167,7 +167,7 @@
       "authors": "Thong Nguyen, Andrew Yates, Ayah Zirikly, Bart Desmet, Arman Cohan",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2022",
-      "citations": 74,
+      "citations": 75,
       "url": "http://arxiv.org/pdf/2204.10432"
     },
     {
@@ -312,7 +312,7 @@
       "venue": "BMC Public Health",
       "year": "2019",
       "citations": 24,
-      "url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-019-7630-3"
+      "url": "https://link.springer.com/content/pdf/10.1186/s12889-019-7630-3.pdf"
     },
     {
       "title": "Classifying the reported ability in clinical mobility descriptions",
