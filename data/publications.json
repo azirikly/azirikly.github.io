@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-24",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
@@ -19,12 +19,28 @@
       "url": "https://doi.org/10.2196/96771"
     },
     {
+      "title": "An approach to classifying and measuring stigmatizing and positive language at scale in electronic health records",
+      "authors": "Somnath Saha, Keith Harrigian, Brant W. Chee, Alya Ahmad, A. Links, Dingfen Han, Yahan Li, Ayah Zirikly, M. Dredze, M. Beach",
+      "venue": "BMC Health Services Research",
+      "year": "2026",
+      "citations": 0,
+      "url": "https://doi.org/10.1186/s12913-026-15358-5"
+    },
+    {
       "title": "FHexchange: Resources for Family Health History Extraction and Normalization From Consumer Dialog Sources",
       "authors": "M. Nguyen, Nidhi Soley, Ayah Zirikly, João Sedoc, C. Taylor",
       "venue": "BioNLP@ACL",
       "year": "2026",
       "citations": 0,
       "url": "https://aclanthology.org/2026.bionlp-1.82.pdf"
+    },
+    {
+      "title": "Using natural language processing and machine learning to identify social needs in patient medical notes: model training with balanced versus real-world datasets",
+      "authors": "C. Kitchen, Thomas M Richards, Luis M Ahumada, Geoffrey M Gray, Ayah Zirikly, E. Hatef",
+      "venue": "JAMIA Open",
+      "year": "2026",
+      "citations": 0,
+      "url": "https://doi.org/10.1093/jamiaopen/ooag170"
     },
     {
       "title": "Detecting Dataset Bias in Medical AI: A Generalized and Modality-Agnostic Auditing Framework",
@@ -39,7 +55,7 @@
       "authors": "Saad Mankarious, Ayah Zirikly",
       "venue": "arXiv.org",
       "year": "2025",
-      "citations": 7,
+      "citations": 8,
       "url": "https://doi.org/10.48550/arXiv.2511.03102"
     },
     {
@@ -48,7 +64,7 @@
       "venue": "JMIR Research Protocols",
       "year": "2025",
       "citations": 2,
-      "url": "https://www.researchprotocols.org/2025/1/e63279/PDF"
+      "url": "https://doi.org/10.2196/63279"
     },
     {
       "title": "Assessing genetic counseling efficiency with natural language processing",
@@ -124,7 +140,7 @@
     },
     {
       "title": "Characterization of Stigmatizing Language in Medical Records",
-      "authors": "Keith Harrigian, Ayah Zirikly, Brant Chee, Alya Ahmad, A. Links, S. Saha, M. Beach, M. Dredze",
+      "authors": "Keith Harrigian, Ayah Zirikly, Brant W. Chee, Alya Ahmad, A. Links, S. Saha, M. Beach, M. Dredze",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2023",
       "citations": 33,
@@ -167,7 +183,7 @@
       "authors": "Thong Nguyen, Andrew Yates, Ayah Zirikly, Bart Desmet, Arman Cohan",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2022",
-      "citations": 75,
+      "citations": 76,
       "url": "http://arxiv.org/pdf/2204.10432"
     },
     {
@@ -247,8 +263,8 @@
       "authors": "Denis R. Newman-Griffis, G. Divita, Bart Desmet, Ayah Zirikly, C. Rosé, E. Fosler-Lussier",
       "venue": "J. Am. Medical Informatics Assoc.",
       "year": "2020",
-      "citations": 32,
-      "url": "https://doi.org/10.1093/jamia/ocaa269"
+      "citations": 33,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7936394"
     },
     {
       "title": "A comprehensive study of mobility functioning information in clinical notes: entity hierarchy, corpus annotation, and sequence labeling",
@@ -256,7 +272,7 @@
       "venue": "Int. J. Medical Informatics",
       "year": "2020",
       "citations": 21,
-      "url": "https://www.sciencedirect.com/science/article/pii/S1386505620318876/pdf"
+      "url": "https://www.sciencedirect.com/science/article/pii/S1386505620318876?via%3Dihub"
     },
     {
       "title": "SPARSE ENCODING FOR MORE-INTERPRETABLE FEATURE-SELECTING REPRESENTATIONS IN PROBABILISTIC MATRIX FACTORIZATION",
@@ -303,7 +319,7 @@
       "authors": "Ayah Zirikly, P. Resnik, Özlem Uzuner, Kristy Hollingshead",
       "venue": "Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2019",
-      "citations": 255,
+      "citations": 256,
       "url": "https://doi.org/10.18653/v1/w19-3003"
     },
     {
@@ -344,7 +360,7 @@
       "venue": "CLPsych@NAACL-HTL",
       "year": "2018",
       "citations": 238,
-      "url": "https://www.aclweb.org/anthology/W18-0603.pdf"
+      "url": "https://doi.org/10.18653/v1/w18-0603"
     },
     {
       "title": "RSDD-Time: Temporal Annotation of Self-Reported Mental Health Diagnoses",
