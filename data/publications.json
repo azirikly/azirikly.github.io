@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-31",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
@@ -7,7 +7,7 @@
       "authors": "I. Ali, Talia Tseriotou, Guy Dvir, Callum Chan, Yuxiang Zhou, Juan Antonio Lossio-Ventura, Ayal Klein, Aya Shamir, Dan Sayda, Anthony Hills, Ayah Zirikly, Diana Inkpen, Dana Atzil-Slonim, Maria Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2026",
-      "citations": 12,
+      "citations": 13,
       "url": "https://aclanthology.org/2026.clpsych-1.32.pdf"
     },
     {
@@ -143,7 +143,7 @@
       "authors": "Keith Harrigian, Ayah Zirikly, Brant W. Chee, Alya Ahmad, A. Links, S. Saha, M. Beach, M. Dredze",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2023",
-      "citations": 33,
+      "citations": 34,
       "url": "https://aclanthology.org/2023.acl-short.28.pdf"
     },
     {
@@ -183,7 +183,7 @@
       "authors": "Thong Nguyen, Andrew Yates, Ayah Zirikly, Bart Desmet, Arman Cohan",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2022",
-      "citations": 76,
+      "citations": 78,
       "url": "http://arxiv.org/pdf/2204.10432"
     },
     {
@@ -191,7 +191,7 @@
       "authors": "Adam Tsakalidis, Jenny Chim, I. Bilal, Ayah Zirikly, Dana Atzil-Slonim, F. Nanni, P. Resnik, Manas Gaur, Kaushik Roy, B. Inkster, Jeff Leintz, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2022",
-      "citations": 71,
+      "citations": 73,
       "url": "https://aclanthology.org/2022.clpsych-1.16.pdf"
     },
     {
@@ -263,7 +263,7 @@
       "authors": "Denis R. Newman-Griffis, G. Divita, Bart Desmet, Ayah Zirikly, C. Rosé, E. Fosler-Lussier",
       "venue": "J. Am. Medical Informatics Assoc.",
       "year": "2020",
-      "citations": 33,
+      "citations": 34,
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7936394"
     },
     {
@@ -319,7 +319,7 @@
       "authors": "Ayah Zirikly, P. Resnik, Özlem Uzuner, Kristy Hollingshead",
       "venue": "Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2019",
-      "citations": 256,
+      "citations": 258,
       "url": "https://doi.org/10.18653/v1/w19-3003"
     },
     {
@@ -359,7 +359,7 @@
       "authors": "Han-Chin Shing, Suraj Nair, Ayah Zirikly, Meir Friedenberg, Hal Daumé, P. Resnik",
       "venue": "CLPsych@NAACL-HTL",
       "year": "2018",
-      "citations": 238,
+      "citations": 239,
       "url": "https://doi.org/10.18653/v1/w18-0603"
     },
     {
@@ -391,7 +391,7 @@
       "authors": "Ayah Zirikly, Varun Kumar, P. Resnik",
       "venue": "CLPsych@HLT-NAACL",
       "year": "2016",
-      "citations": 12,
+      "citations": 13,
       "url": "https://doi.org/10.18653/v1/w16-0321"
     },
     {
