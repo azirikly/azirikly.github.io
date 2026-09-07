@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-07",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
@@ -63,7 +63,7 @@
       "authors": "Brittany Nesbitt, Danielle Virgadamo, Carlos Aguirre, Matthew DeCamp, M. Dredze, Keith Harrigian, Tenzin C Lhaksampa, Jennifer M. Meuchel, Aja M Meyer, Alex Walker, Ayah Zirikly, M. Chisolm, P. Zandi, L. Miller",
       "venue": "JMIR Research Protocols",
       "year": "2025",
-      "citations": 2,
+      "citations": 3,
       "url": "https://doi.org/10.2196/63279"
     },
     {
@@ -111,7 +111,7 @@
       "authors": "Aamir Javaid, Sruthika Baviriseaty, Rehana Javaid, Ayah Zirikly, Harshita Kukreja, Chang H. Kim, Michael J. Blaha, Roger S. Blumenthal, Seth S. Martin, Francoise A. Marvel",
       "venue": "JACC: Advances",
       "year": "2024",
-      "citations": 19,
+      "citations": 20,
       "url": "https://doi.org/10.1016/j.jacadv.2024.101182"
     },
     {
@@ -151,7 +151,7 @@
       "authors": "Geoffrey M Gray, Ayah Zirikly, Luis M Ahumada, Masoud Rouhizadeh, Thomas M Richards, C. Kitchen, Iman Foroughmand, E. Hatef",
       "venue": "JAMIA Open",
       "year": "2023",
-      "citations": 10,
+      "citations": 11,
       "url": "https://academic.oup.com/jamiaopen/article-pdf/6/4/ooad085/51862725/ooad085.pdf"
     },
     {
@@ -207,7 +207,7 @@
       "authors": "Ayah Zirikly, Bart Desmet, Denis R. Newman-Griffis, E. Marfeo, Christine M. McDonough, Howard Goldman, L. Chan",
       "venue": "JMIR Medical Informatics",
       "year": "2022",
-      "citations": 9,
+      "citations": 10,
       "url": "https://medinform.jmir.org/2022/3/e32245/PDF"
     },
     {
@@ -276,7 +276,7 @@
     },
     {
       "title": "SPARSE ENCODING FOR MORE-INTERPRETABLE FEATURE-SELECTING REPRESENTATIONS IN PROBABILISTIC MATRIX FACTORIZATION",
-      "authors": "Joshua C. Chang, P. Fletcher, Ju Han, Ted L.Chang, Shashaank Vattikuti, Bart Desmet, Ayah Zirikly, C. Chow",
+      "authors": "Joshua C. Chang, P. Fletcher, Ju Han, Ted L.Chang, S. Vattikuti, Bart Desmet, Ayah Zirikly, C. Chow",
       "venue": "International Conference on Learning Representations",
       "year": "2020",
       "citations": 8,
@@ -319,7 +319,7 @@
       "authors": "Ayah Zirikly, P. Resnik, Özlem Uzuner, Kristy Hollingshead",
       "venue": "Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2019",
-      "citations": 258,
+      "citations": 260,
       "url": "https://doi.org/10.18653/v1/w19-3003"
     },
     {
@@ -359,7 +359,7 @@
       "authors": "Han-Chin Shing, Suraj Nair, Ayah Zirikly, Meir Friedenberg, Hal Daumé, P. Resnik",
       "venue": "CLPsych@NAACL-HTL",
       "year": "2018",
-      "citations": 239,
+      "citations": 242,
       "url": "https://doi.org/10.18653/v1/w18-0603"
     },
     {
