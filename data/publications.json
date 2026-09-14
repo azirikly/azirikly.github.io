@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07",
+  "last_updated": "2026-09-14",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
@@ -7,7 +7,7 @@
       "authors": "I. Ali, Talia Tseriotou, Guy Dvir, Callum Chan, Yuxiang Zhou, Juan Antonio Lossio-Ventura, Ayal Klein, Aya Shamir, Dan Sayda, Anthony Hills, Ayah Zirikly, Diana Inkpen, Dana Atzil-Slonim, Maria Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2026",
-      "citations": 13,
+      "citations": 14,
       "url": "https://aclanthology.org/2026.clpsych-1.32.pdf"
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "title": "An approach to classifying and measuring stigmatizing and positive language at scale in electronic health records",
-      "authors": "Somnath Saha, Keith Harrigian, Brant W. Chee, Alya Ahmad, A. Links, Dingfen Han, Yahan Li, Ayah Zirikly, M. Dredze, M. Beach",
+      "authors": "Somnath Saha, Keith Harrigian, Brant W. Chee, Alya Ahmad, A. Links, Dingfen Han, Ya-Han Li, Ayah Zirikly, M. Dredze, M. Beach",
       "venue": "BMC Health Services Research",
       "year": "2026",
       "citations": 0,
@@ -92,7 +92,7 @@
     },
     {
       "title": "Measuring Depression Severity With Clinical Global Impression–Severity Scale Scores From Clinical Notes Using Large Language Models: Validation Study",
-      "authors": "Kevin Li, Ayah Zirikly, Sarah C. Collica, Fernando S. Goes, Congwen Zhao, T. Nguyen, Jane P. Gagliardi, Benjamin A. Goldstein, H. Hong, Elizabeth A Stuart, Peter P. Zandi",
+      "authors": "Kevin C. Li, Ayah Zirikly, Sarah C. Collica, Fernando S. Goes, Congwen Zhao, T. Nguyen, Jane P. Gagliardi, Benjamin A. Goldstein, H. Hong, Elizabeth A Stuart, Peter P. Zandi",
       "venue": "JMIR Formative Research",
       "year": "2025",
       "citations": 0,
@@ -103,7 +103,7 @@
       "authors": "Jenny Chim, Adam Tsakalidis, Dimitris Gkoumas, Dana Atzil-Slonim, Y. Ophir, Ayah Zirikly, Philip Resnik, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2024",
-      "citations": 35,
+      "citations": 36,
       "url": "https://aclanthology.org/2024.clpsych-1.15.pdf"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "title": "Are Clinical T5 Models Better for Clinical Text?",
-      "authors": "Yahan Li, Keith Harrigian, Ayah Zirikly, M. Dredze",
+      "authors": "Ya-Han Li, Keith Harrigian, Ayah Zirikly, M. Dredze",
       "venue": "ML4H@NeurIPS",
       "year": "2024",
       "citations": 6,
@@ -183,7 +183,7 @@
       "authors": "Thong Nguyen, Andrew Yates, Ayah Zirikly, Bart Desmet, Arman Cohan",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2022",
-      "citations": 78,
+      "citations": 79,
       "url": "http://arxiv.org/pdf/2204.10432"
     },
     {
@@ -191,7 +191,7 @@
       "authors": "Adam Tsakalidis, Jenny Chim, I. Bilal, Ayah Zirikly, Dana Atzil-Slonim, F. Nanni, P. Resnik, Manas Gaur, Kaushik Roy, B. Inkster, Jeff Leintz, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2022",
-      "citations": 73,
+      "citations": 74,
       "url": "https://aclanthology.org/2022.clpsych-1.16.pdf"
     },
     {
@@ -204,7 +204,7 @@
     },
     {
       "title": "Information Extraction Framework for Disability Determination Using a Mental Functioning Use-Case",
-      "authors": "Ayah Zirikly, Bart Desmet, Denis R. Newman-Griffis, E. Marfeo, Christine M. McDonough, Howard Goldman, L. Chan",
+      "authors": "Ayah Zirikly, Bart Desmet, Denis R. Newman-Griffis, E. Marfeo, C. McDonough, Howard Goldman, L. Chan",
       "venue": "JMIR Medical Informatics",
       "year": "2022",
       "citations": 10,
@@ -244,7 +244,7 @@
     },
     {
       "title": "Application of Natural Language Processing to Identify Social Needs from The Electronic Health Record's Free-Text Notes",
-      "authors": "Geoffrey M. Gray, L. Ahumada, Ayah Zirikly, Masoud Rouhizadeh, Tom M. Richards, E. Hatef",
+      "authors": "G. Gray, L. Ahumada, Ayah Zirikly, Masoud Rouhizadeh, Tom M. Richards, E. Hatef",
       "venue": "American Medical Informatics Association Annual Symposium",
       "year": "2022",
       "citations": 0,
@@ -252,7 +252,7 @@
     },
     {
       "title": "An Information Extraction Framework for Disability Determination: A mental Functioning Use-Case (Preprint)",
-      "authors": "Ayah Zirikly, Bart Desmet, Denis R. Newman-Griffis, Beth Marfeo, Christine M. McDonough, H. Goldman, L. Chan",
+      "authors": "Ayah Zirikly, Bart Desmet, Denis R. Newman-Griffis, Beth Marfeo, C. McDonough, H. Goldman, L. Chan",
       "venue": "",
       "year": "2021",
       "citations": 0,
@@ -319,7 +319,7 @@
       "authors": "Ayah Zirikly, P. Resnik, Özlem Uzuner, Kristy Hollingshead",
       "venue": "Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2019",
-      "citations": 260,
+      "citations": 264,
       "url": "https://doi.org/10.18653/v1/w19-3003"
     },
     {
@@ -348,7 +348,7 @@
     },
     {
       "title": "Automated classification of mobility activities in free text clinical narratives",
-      "authors": "Denis R. Newman-Griffis, Ayah Zirikly, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R Marr, A. Lai, E. Fosler-Lussier",
+      "authors": "Denis R. Newman-Griffis, Ayah Zirikly, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R Marr, Albert M. Lai, E. Fosler-Lussier",
       "venue": "American Medical Informatics Association Annual Symposium",
       "year": "2019",
       "citations": 0,
@@ -359,7 +359,7 @@
       "authors": "Han-Chin Shing, Suraj Nair, Ayah Zirikly, Meir Friedenberg, Hal Daumé, P. Resnik",
       "venue": "CLPsych@NAACL-HTL",
       "year": "2018",
-      "citations": 242,
+      "citations": 243,
       "url": "https://doi.org/10.18653/v1/w18-0603"
     },
     {
