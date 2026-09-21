@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-21",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
@@ -11,7 +11,7 @@
       "url": "https://aclanthology.org/2026.clpsych-1.32.pdf"
     },
     {
-      "title": "Temporal Analysis of Patient-Centered Sentiment in Mental Health Clinical Narratives: A Retrospective Cohort Study (Preprint)",
+      "title": "Temporal Analysis of Patient-Centered Sentiment in Clinical Notes for Patients With Mental Health Conditions: Retrospective Cohort Study.",
       "authors": "A Ahmed Morsy, Carson J. Peters, Leslie Miller, Ayah Zirikly",
       "venue": "Journal of Medical Internet Research",
       "year": "2026",
@@ -67,6 +67,14 @@
       "url": "https://doi.org/10.2196/63279"
     },
     {
+      "title": "Dashboard Intervention for Tracking Digital Social Media Activity in the Clinical Care of Individuals With Mood and Anxiety Disorders: Randomized Trial",
+      "authors": "L. Miller, Tenzin C Lhaksampa, Alex Walker, Carlos Aguirre, M. DeCamp, Keith Harrigian, Jennifer M. Meuchel, Aja M Meyer, Brittany Nesbitt, Sazal Sthapit, Jason Straub, Danielle Virgadamo, Ayah Zirikly, M. Dredze, M. Chisolm, P. Zandi",
+      "venue": "JMIR Mental Health",
+      "year": "2025",
+      "citations": 2,
+      "url": "https://doi.org/10.2196/74212"
+    },
+    {
       "title": "Assessing genetic counseling efficiency with natural language processing",
       "authors": "M. Nguyen, Carolyn D Applegate, B. Murray, Ayah Zirikly, C. Tichnell, Catherine Gordon, L. Yanek, Cynthia A James, C. Taylor",
       "venue": "J. Am. Medical Informatics Assoc.",
@@ -83,14 +91,6 @@
       "url": "https://doi.org/10.2105/AJPH.2024.307970"
     },
     {
-      "title": "Dashboard Intervention for Tracking Digital Social Media Activity in the Clinical Care of Individuals With Mood and Anxiety Disorders: Randomized Trial",
-      "authors": "L. Miller, Tenzin C Lhaksampa, Alex Walker, Carlos Aguirre, M. DeCamp, Keith Harrigian, Jennifer M. Meuchel, Aja M Meyer, Brittany Nesbitt, Sazal Sthapit, Jason Straub, Danielle Virgadamo, Ayah Zirikly, M. Dredze, M. Chisolm, P. Zandi",
-      "venue": "JMIR Mental Health",
-      "year": "2025",
-      "citations": 1,
-      "url": "https://doi.org/10.2196/74212"
-    },
-    {
       "title": "Measuring Depression Severity With Clinical Global Impression–Severity Scale Scores From Clinical Notes Using Large Language Models: Validation Study",
       "authors": "Kevin C. Li, Ayah Zirikly, Sarah C. Collica, Fernando S. Goes, Congwen Zhao, T. Nguyen, Jane P. Gagliardi, Benjamin A. Goldstein, H. Hong, Elizabeth A Stuart, Peter P. Zandi",
       "venue": "JMIR Formative Research",
@@ -103,7 +103,7 @@
       "authors": "Jenny Chim, Adam Tsakalidis, Dimitris Gkoumas, Dana Atzil-Slonim, Y. Ophir, Ayah Zirikly, Philip Resnik, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2024",
-      "citations": 36,
+      "citations": 38,
       "url": "https://aclanthology.org/2024.clpsych-1.15.pdf"
     },
     {
@@ -111,7 +111,7 @@
       "authors": "Aamir Javaid, Sruthika Baviriseaty, Rehana Javaid, Ayah Zirikly, Harshita Kukreja, Chang H. Kim, Michael J. Blaha, Roger S. Blumenthal, Seth S. Martin, Francoise A. Marvel",
       "venue": "JACC: Advances",
       "year": "2024",
-      "citations": 20,
+      "citations": 21,
       "url": "https://doi.org/10.1016/j.jacadv.2024.101182"
     },
     {
