@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21",
+  "last_updated": "2026-09-28",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
@@ -11,8 +11,16 @@
       "url": "https://aclanthology.org/2026.clpsych-1.32.pdf"
     },
     {
+      "title": "Geospatial suicide risk prediction in the State of Maryland and the limits of discernible intent",
+      "authors": "C. Kitchen, A. Belouali, Ayah Zirikly, P. Nestadt, H. C. Wilcox, Hadi Kharrazi",
+      "venue": "Research Square",
+      "year": "2026",
+      "citations": 1,
+      "url": "https://www.researchsquare.com/article/rs-10832081/latest.pdf"
+    },
+    {
       "title": "Temporal Analysis of Patient-Centered Sentiment in Clinical Notes for Patients With Mental Health Conditions: Retrospective Cohort Study.",
-      "authors": "A Ahmed Morsy, Carson J. Peters, Leslie Miller, Ayah Zirikly",
+      "authors": "AbdulRahman A. Morsy, Carson J. Peters, Leslie Miller, Ayah Zirikly",
       "venue": "Journal of Medical Internet Research",
       "year": "2026",
       "citations": 0,
@@ -20,7 +28,7 @@
     },
     {
       "title": "An approach to classifying and measuring stigmatizing and positive language at scale in electronic health records",
-      "authors": "Somnath Saha, Keith Harrigian, Brant W. Chee, Alya Ahmad, A. Links, Dingfen Han, Ya-Han Li, Ayah Zirikly, M. Dredze, M. Beach",
+      "authors": "Somnath Saha, Keith Harrigian, B. Chee, Alya Ahmad, A. Links, Dingfen Han, Ya-Han Li, Ayah Zirikly, M. Dredze, M. Beach",
       "venue": "BMC Health Services Research",
       "year": "2026",
       "citations": 0,
@@ -44,7 +52,7 @@
     },
     {
       "title": "Detecting Dataset Bias in Medical AI: A Generalized and Modality-Agnostic Auditing Framework",
-      "authors": "Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, Mathias Unberath",
+      "authors": "Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, Mohammad Mehdi Farhangi, Nicholas Petrick, Mathias Unberath",
       "venue": "arXiv.org",
       "year": "2025",
       "citations": 8,
@@ -103,7 +111,7 @@
       "authors": "Jenny Chim, Adam Tsakalidis, Dimitris Gkoumas, Dana Atzil-Slonim, Y. Ophir, Ayah Zirikly, Philip Resnik, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2024",
-      "citations": 38,
+      "citations": 39,
       "url": "https://aclanthology.org/2024.clpsych-1.15.pdf"
     },
     {
@@ -140,7 +148,7 @@
     },
     {
       "title": "Characterization of Stigmatizing Language in Medical Records",
-      "authors": "Keith Harrigian, Ayah Zirikly, Brant W. Chee, Alya Ahmad, A. Links, S. Saha, M. Beach, M. Dredze",
+      "authors": "Keith Harrigian, Ayah Zirikly, B. Chee, Alya Ahmad, A. Links, S. Saha, M. Beach, M. Dredze",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2023",
       "citations": 34,
@@ -167,16 +175,8 @@
       "authors": "Alex Walker, Ayah Zirikly, M. Stockbridge, H. C. Wilcox",
       "venue": "Crisis",
       "year": "2023",
-      "citations": 3,
+      "citations": 4,
       "url": "https://doi.org/10.1027/0227-5910/a000928"
-    },
-    {
-      "title": "Conference on Health, Inference, and Learning, CHIL 2023, Broad Institute of MIT and Harvard (Merkin Building), 415 Main Street, Cambridge, MA, USA",
-      "authors": "Gerardo Flores, George H. Chen, T. Pollard, Ayah Zirikly, Michael C. Hughes, Tasmie Sarker, Joyce Ho, Tristan Naumann",
-      "venue": "ACM Conference on Health, Inference, and Learning",
-      "year": "2023",
-      "citations": 0,
-      "url": ""
     },
     {
       "title": "Improving the Generalizability of Depression Detection by Leveraging Clinical Questionnaires",
@@ -211,16 +211,8 @@
       "url": "https://medinform.jmir.org/2022/3/e32245/PDF"
     },
     {
-      "title": "Machine Learning for Health (ML4H) 2022",
-      "authors": "Subhrajit Roy, S. Pfohl, G. Tadesse, Luis Oala, Fabian Falck, Yuyin Zhou, Liyue Shen, Ghada Zamzmi, Purity Mugambi, Ayah Zirikly, Matthew B. A. McDermott, Emily Alsentzer",
-      "venue": "ML4H@NeurIPS",
-      "year": "2022",
-      "citations": 5,
-      "url": ""
-    },
-    {
       "title": "A Whole-Person Function Dictionary for the Mobility, Self-Care and Domestic Life Domains: a Seedset Expansion Approach",
-      "authors": "Ayah Zirikly, Bart Desmet, Julia Porcino, Jonathan Camacho Maldonado, Pei-Shu Ho, R. J. Silva, Maryanne Sacco",
+      "authors": "Ayah Zirikly, Bart Desmet, Julia Porcino, Jonathan Camacho Maldonado, Pei-Shu Ho, Rafael Jimenez Silva, Maryanne Sacco",
       "venue": "International Conference on Language Resources and Evaluation",
       "year": "2022",
       "citations": 3,
@@ -260,10 +252,10 @@
     },
     {
       "title": "Ambiguity in medical concept normalization: An analysis of types and coverage in electronic health record datasets",
-      "authors": "Denis R. Newman-Griffis, G. Divita, Bart Desmet, Ayah Zirikly, C. Rosé, E. Fosler-Lussier",
+      "authors": "Denis R. Newman-Griffis, G. Divita, Bart Desmet, Ayah Zirikly, C. Rosé, Eric Fosler-Lussier",
       "venue": "J. Am. Medical Informatics Assoc.",
       "year": "2020",
-      "citations": 34,
+      "citations": 35,
       "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7936394"
     },
     {
@@ -276,7 +268,7 @@
     },
     {
       "title": "SPARSE ENCODING FOR MORE-INTERPRETABLE FEATURE-SELECTING REPRESENTATIONS IN PROBABILISTIC MATRIX FACTORIZATION",
-      "authors": "Joshua C. Chang, P. Fletcher, Ju Han, Ted L.Chang, S. Vattikuti, Bart Desmet, Ayah Zirikly, C. Chow",
+      "authors": "Joshua C. Chang, P. Fletcher, Ju Han, Ted L. Chang, S. Vattikuti, Bart Desmet, Ayah Zirikly, C. Chow",
       "venue": "International Conference on Learning Representations",
       "year": "2020",
       "citations": 8,
@@ -319,7 +311,7 @@
       "authors": "Ayah Zirikly, P. Resnik, Özlem Uzuner, Kristy Hollingshead",
       "venue": "Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2019",
-      "citations": 264,
+      "citations": 265,
       "url": "https://doi.org/10.18653/v1/w19-3003"
     },
     {
@@ -348,7 +340,7 @@
     },
     {
       "title": "Automated classification of mobility activities in free text clinical narratives",
-      "authors": "Denis R. Newman-Griffis, Ayah Zirikly, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R Marr, Albert M. Lai, E. Fosler-Lussier",
+      "authors": "Denis R. Newman-Griffis, Ayah Zirikly, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R Marr, Albert M. Lai, Eric Fosler-Lussier",
       "venue": "American Medical Informatics Association Annual Symposium",
       "year": "2019",
       "citations": 0,
@@ -359,7 +351,7 @@
       "authors": "Han-Chin Shing, Suraj Nair, Ayah Zirikly, Meir Friedenberg, Hal Daumé, P. Resnik",
       "venue": "CLPsych@NAACL-HTL",
       "year": "2018",
-      "citations": 243,
+      "citations": 245,
       "url": "https://doi.org/10.18653/v1/w18-0603"
     },
     {
@@ -367,7 +359,7 @@
       "authors": "Sean MacAvaney, Bart Desmet, Arman Cohan, Luca Soldaini, Andrew Yates, Ayah Zirikly, Nazli Goharian",
       "venue": "CLPsych@NAACL-HTL",
       "year": "2018",
-      "citations": 43,
+      "citations": 44,
       "url": "https://www.aclweb.org/anthology/W18-0618.pdf"
     },
     {
@@ -420,7 +412,7 @@
     },
     {
       "title": "Cross-lingual Transfer of Named Entity Recognizers without Parallel Corpora",
-      "authors": "Ayah Zirikly",
+      "authors": "Ayah Zirikly, Masato Hagiwara",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2015",
       "citations": 50,
