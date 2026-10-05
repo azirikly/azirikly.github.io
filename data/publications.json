@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-10-05",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
@@ -7,7 +7,7 @@
       "authors": "I. Ali, Talia Tseriotou, Guy Dvir, Callum Chan, Yuxiang Zhou, Juan Antonio Lossio-Ventura, Ayal Klein, Aya Shamir, Dan Sayda, Anthony Hills, Ayah Zirikly, Diana Inkpen, Dana Atzil-Slonim, Maria Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2026",
-      "citations": 14,
+      "citations": 15,
       "url": "https://aclanthology.org/2026.clpsych-1.32.pdf"
     },
     {
@@ -19,7 +19,7 @@
       "url": "https://www.researchsquare.com/article/rs-10832081/latest.pdf"
     },
     {
-      "title": "Temporal Analysis of Patient-Centered Sentiment in Clinical Notes for Patients With Mental Health Conditions: Retrospective Cohort Study.",
+      "title": "Temporal Analysis of Patient-Centered Sentiment in Clinical Notes for Patients With Mental Health Conditions: Retrospective Cohort Study",
       "authors": "AbdulRahman A. Morsy, Carson J. Peters, Leslie Miller, Ayah Zirikly",
       "venue": "Journal of Medical Internet Research",
       "year": "2026",
@@ -52,10 +52,10 @@
     },
     {
       "title": "Detecting Dataset Bias in Medical AI: A Generalized and Modality-Agnostic Auditing Framework",
-      "authors": "Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, Mohammad Mehdi Farhangi, Nicholas Petrick, Mathias Unberath",
+      "authors": "Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, M. M. Farhangi, Nicholas Petrick, Mathias Unberath",
       "venue": "arXiv.org",
       "year": "2025",
-      "citations": 8,
+      "citations": 9,
       "url": "https://doi.org/10.48550/arXiv.2503.09969"
     },
     {
@@ -103,7 +103,7 @@
       "authors": "Kevin C. Li, Ayah Zirikly, Sarah C. Collica, Fernando S. Goes, Congwen Zhao, T. Nguyen, Jane P. Gagliardi, Benjamin A. Goldstein, H. Hong, Elizabeth A Stuart, Peter P. Zandi",
       "venue": "JMIR Formative Research",
       "year": "2025",
-      "citations": 0,
+      "citations": 1,
       "url": "https://doi.org/10.2196/86906"
     },
     {
@@ -111,7 +111,7 @@
       "authors": "Jenny Chim, Adam Tsakalidis, Dimitris Gkoumas, Dana Atzil-Slonim, Y. Ophir, Ayah Zirikly, Philip Resnik, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2024",
-      "citations": 39,
+      "citations": 40,
       "url": "https://aclanthology.org/2024.clpsych-1.15.pdf"
     },
     {
@@ -191,7 +191,7 @@
       "authors": "Adam Tsakalidis, Jenny Chim, I. Bilal, Ayah Zirikly, Dana Atzil-Slonim, F. Nanni, P. Resnik, Manas Gaur, Kaushik Roy, B. Inkster, Jeff Leintz, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2022",
-      "citations": 74,
+      "citations": 76,
       "url": "https://aclanthology.org/2022.clpsych-1.16.pdf"
     },
     {
@@ -263,7 +263,7 @@
       "authors": "Thanh Thieu, Jonathan Camacho Maldonado, Pei-Shu Ho, Min Ding, Alex R Marr, D. Brandt, Denis R. Newman-Griffis, Ayah Zirikly, L. Chan, E. Rasch",
       "venue": "Int. J. Medical Informatics",
       "year": "2020",
-      "citations": 21,
+      "citations": 22,
       "url": "https://www.sciencedirect.com/science/article/pii/S1386505620318876?via%3Dihub"
     },
     {
@@ -311,7 +311,7 @@
       "authors": "Ayah Zirikly, P. Resnik, Özlem Uzuner, Kristy Hollingshead",
       "venue": "Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2019",
-      "citations": 265,
+      "citations": 267,
       "url": "https://doi.org/10.18653/v1/w19-3003"
     },
     {
