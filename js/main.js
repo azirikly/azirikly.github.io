@@ -125,36 +125,9 @@ document.getElementById('pub-year-filter').addEventListener('change', filterPubl
 
 loadPublications();
 
-/* ── Contact form (Formspree AJAX) ── */
-const contactForm = document.getElementById('contact-form');
-if (contactForm) {
-  contactForm.addEventListener('submit', async (e) => {
-    e.preventDefault();
-    const btn    = document.getElementById('contact-submit');
-    const status = document.getElementById('contact-status');
-    btn.disabled = true;
-    btn.textContent = 'Sending…';
-    status.className = 'form-status';
-    status.textContent = '';
-    try {
-      const res = await fetch(contactForm.action, {
-        method: 'POST',
-        body: new FormData(contactForm),
-        headers: { Accept: 'application/json' },
-      });
-      if (res.ok) {
-        status.className = 'form-status success';
-        status.textContent = 'Message sent — thank you!';
-        contactForm.reset();
-      } else {
-        throw new Error();
-      }
-    } catch {
-      status.className = 'form-status error';
-      status.textContent = 'Something went wrong. Please try again.';
-    } finally {
-      btn.disabled = false;
-      btn.textContent = 'Send Message';
-    }
-  });
-}
+/* ── Email link (assembled at runtime to deter address scrapers) ── */
+document.querySelectorAll('.email-link').forEach((link) => {
+  const address = `${link.dataset.user}@${link.dataset.domain}`;
+  link.href = `mailto:${address}`;
+  link.textContent = address;
+});

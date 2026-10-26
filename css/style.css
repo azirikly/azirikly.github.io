@@ -379,38 +379,6 @@ h1 {
 .contact-links li { margin-bottom: 10px; }
 .contact-links a { font-size: 0.95rem; font-weight: 500; }
 
-.form-group { margin-bottom: 16px; }
-.form-group label {
-  display: block;
-  font-size: 0.85rem;
-  font-weight: 600;
-  color: var(--text);
-  margin-bottom: 6px;
-}
-.form-group input,
-.form-group textarea {
-  width: 100%;
-  padding: 9px 13px;
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  font-size: 0.92rem;
-  font-family: inherit;
-  color: var(--text);
-  background: #fff;
-  outline: none;
-  transition: border-color 0.15s;
-  resize: vertical;
-}
-.form-group input:focus,
-.form-group textarea:focus { border-color: var(--blue); }
-.form-status {
-  margin-top: 10px;
-  font-size: 0.88rem;
-  min-height: 1.2em;
-}
-.form-status.success { color: #16a34a; }
-.form-status.error   { color: #dc2626; }
-
 /* ── Footer ── */
 footer {
   background: var(--navy);
