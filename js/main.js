@@ -125,9 +125,8 @@ document.getElementById('pub-year-filter').addEventListener('change', filterPubl
 
 loadPublications();
 
-/* ── Email link (assembled at runtime to deter address scrapers) ── */
+/* ── Email link (mailto assembled at runtime to deter address scrapers) ── */
 document.querySelectorAll('.email-link').forEach((link) => {
   const address = `${link.dataset.user}@${link.dataset.domain}`;
   link.href = `mailto:${address}`;
-  link.textContent = address;
 });
