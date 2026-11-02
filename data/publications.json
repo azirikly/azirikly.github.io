@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-11-02",
   "semantic_scholar_author_id": "2216860",
   "publications": [
     {
       "title": "Overview of the CLPsych 2026 Shared Task: Capturing and Characterizing Mental Health Changes through Social Media Timeline Dynamics",
-      "authors": "I. Ali, Talia Tseriotou, Guy Dvir, Callum Chan, Yuxiang Zhou, Juan Antonio Lossio-Ventura, Ayal Klein, Aya Shamir, Dan Sayda, Anthony Hills, Ayah Zirikly, Diana Inkpen, Dana Atzil-Slonim, Maria Liakata",
+      "authors": "I. Ali, Talia Tseriotou, Guy Dvir, Callum Chan, Yu-Xiang Zhou, Juan Antonio Lossio-Ventura, Ayal Klein, Aya Shamir, Dan Sayda, Anthony Hills, Ayah Zirikly, Diana Inkpen, Dana Atzil-Slonim, Maria Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2026",
       "citations": 16,
@@ -28,7 +28,7 @@
     },
     {
       "title": "An approach to classifying and measuring stigmatizing and positive language at scale in electronic health records",
-      "authors": "Somnath Saha, Keith Harrigian, B. Chee, Alya Ahmad, Anne R. Links, Ding-Fen Han, Ya-Han Li, Ayah Zirikly, M. Dredze, M. Beach",
+      "authors": "Somnath Saha, Keith Harrigian, B. Chee, Alya Ahmad, Anne R. Links, D. Han, Ya-Han Li, Ayah Zirikly, M. Dredze, M. Beach",
       "venue": "BMC Health Services Research",
       "year": "2026",
       "citations": 0,
@@ -55,7 +55,7 @@
       "authors": "Nathan Drenkow, Mitchell Pavlak, Keith Harrigian, Ayah Zirikly, Adarsh Subbaswamy, M. M. Farhangi, Nicholas Petrick, Mathias Unberath",
       "venue": "arXiv.org",
       "year": "2025",
-      "citations": 9,
+      "citations": 10,
       "url": "https://doi.org/10.48550/arXiv.2503.09969"
     },
     {
@@ -111,7 +111,7 @@
       "authors": "Jenny Chim, Adam Tsakalidis, Dimitris Gkoumas, Dana Atzil-Slonim, Y. Ophir, Ayah Zirikly, Philip Resnik, M. Liakata",
       "venue": "Workshop on Computational Linguistics and Clinical Psychology",
       "year": "2024",
-      "citations": 42,
+      "citations": 43,
       "url": "https://aclanthology.org/2024.clpsych-1.15.pdf"
     },
     {
@@ -183,7 +183,7 @@
       "authors": "Thong Nguyen, Andrew Yates, Ayah Zirikly, Bart Desmet, Arman Cohan",
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "year": "2022",
-      "citations": 80,
+      "citations": 81,
       "url": "http://arxiv.org/pdf/2204.10432"
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "title": "Proceedings of the Seventh Workshop on Computational Linguistics and Clinical Psychology: Improving Access",
-      "authors": "Glorianna Jagfeld, Fiona Lobban, Paul Rayson, S. Jones, G. Goodwin, Peter Haddad, I. Ferrier, J. Aronson, Thomas R. E. Barnes, A. Cipriani, D. Coghill, Seena Fazel, J. Geddes, H. Grunze, E. Holmes, Oliver D. Howes, S. Hudson, N. Hunt, I. Jones, I. C. MacMillan, R. H. McAllister-Williams, D. Mik, Roger S. McIntyre, S. Kennedy, J. Soczynska, H. H. Nguyễn, K. Merikangas, Robert Jin, Jian-Ping He, Ronald C. Kessler, Sing Lee, N. Sampson, María Carmen Viana, L. Andrade, Chi-Yi Hu, E. Karam, Maria Ladea, María Elena, M. Mora, Mark Oakley, Keith Harrigian, Carlos Alejandro Aguirre, Mark Dredze, G. Coppersmith, Craig Harman, Kristy Hollingshead, Margaret Mitchell, J. Eichstaedt, Robert E. Smith, R. Merchant, Lyle Ungar, Hila Gonen, Yoav Goldberg, Yoav Goldberg, A. Benton, G. Coppersmith, M. Dredze, Liliana Dell, Osso, B. Carpita, C. Bertelloni, E. Diadema, M. Filippo, Camilla Barberi, Claudia Gesi, Carmassi, Colin A. Depp, Dilip V. Jeste, A. Di Florio, I. Jones, Gunther Eysenbach, James Till, J. Alize, Emily K. Ferrari, Jon Stockings, Holly Khoo, Lois Erskine, T. Degenhardt, H. Vos, Whiteford, Robert Freedman, David Lewis, Robert Michels, Daniel C. Pine, Susan Schultz, Carol A. Tamminga, G. Gabbard, Susan Shur-Fen, D. Gau, Maria Javitt, Patrick Oquendo, Eduard Shrout, Joel Vieta, Yager, D. Novick, H. Swartz, Ellen Frank, O' Bridianne, Stephen Dea, Philip Wan, A. Batterham, Cecile Calear, Helen Paris, Christensen, M. Oud, Evan Mayo-Wilson, Ruth Braidwood, P. Schulte, Steven Jones, R. Morriss, R. Kupka, P. Cuijpers, T. Kendall, Michael Paul, A. Pfennig, B. Jabs, S. Pfeiffer, B. Weikert, K. Leopold, M. Bauer, Stefano Pini, Valria De Queiroz, Daniel Pagnin, L. Pezawas, Jules Angst, Giovanni Cassano, H. Wittchen, Ria Poole, Daniel Smith, S. Simpson, Daniel Preoiuc-Pietro, J. Eichstaedt, Gregory J. Park, Maarten Sap, Laura K. Smith, Victoria A. Tobolsky, H. A. Schwartz, Lyle Ungar, D. Ruths, J. Pfeffer, K. Puneet, Pamela Sahota, Sankar, M. Sajatovic, Weronika Micula-Gondek, C. Tatsuoka, C. Bialko, Elvis Saravia, Chun-Yuan Chang, Renaud Jollet De Lorenzo, Yi-Tung Shin, Chen, Ivan Sekuli, Matej Gjurkovi, Joanna Najder, Anna Tigunova, P. Mirza, Andrew Yates, G. Weikum, T. Treuer, M. Tohen, Agns Vayreda, C. Antaki, Zi-Jian Wang, David Jurgens, Helen Warwick, Sara Tai, Warren Mansell, Matthew L. Williams, Pete Burnap, Luke Sloan, Minjoo Yoo, Sangwon Lee, T. Ha, Carlos Alejandro Aguirre, Keith Harrigian, Silvio Amir, John W. Ayers, M. Martín, Antony, David Barlow, Alina Arseniev-Koehler, S. Mozgai, Stefan Scherer, Benjamin John W. Ayers, Jon-Patrick Althouse, Niels Allem, Daniel Rosenquist, Ford, R. Bakken, Douglas Rarameswaran, Andrew Blough, Ty Franz, Palmer, Borwin Bandelow, Sophie Michaelis, Thomas William E. Boebert, R. Markham, Olmsted, S. Bucci, M. Schwannauer, Natalie Berry, Stevie Chancellor, Munmun Choudhury, Andrea Hu, Zhi-Yuan Lin, Erica L. Goodman, S. Zerwas, Tanushree Mitra, Arman Cohan, Bart Desmet, Luca Soldaini, Sean MacAvaney, Nazli Goharian, Mrinal Kumar, Yaoyiran Li, R. Mihalcea, Steven L. Wilson, Hui-Jie Lin, Jia Jia, Quan-Zhou Guo, Yuan-Yuan Xue, Qi Li, Jie Huang, Li Cai, Ling Feng, Linghu Nie, Guang-Yao Shen, T. Chua, Fabio David E. Losada, Javier Crestani, Parapar, Kate Loveys, J. Torrez, Alex B. Fine, Glendon L. Moriarty, Ayah Zirikly, David Milne, Glen Pink, Ben Hachey, Rafael A. Calvo, D. Mowery, C. Bryan, Mike Conway, A. Park, B. Norgeot, Giorgio Quer, K. Brett, Ali Beaulieu-Jones, R. Torkamani, M. Dias, Rima Gianfrancesco, Arnaout, Suchi Isaac S. Kohane, Eric Saria, Topol, Galen Panger, Andrew J. Perrin, I. Pirina, C. A. C. Ltekin, Price Nicholson, I. Cohen, Abhishek Brenna N. Renn, David Pratap, S. Atkins, Patricia Mooney, Aren, Koustuv Saha, Margaret L. Kern, D. Stillwell, Michal Kosinski, Ivan Sekulic, Fu-Li Feng, Cun-Jun Zhang, Tian-Rui Hu, Wen-Wu Zhu, Judy Hanwen, --- Shen, Frank Rudzicz, Han-Chin Shing, Suraj Nair, Meir Friedenberg, H. Daum, P. Resnik, Elsbeth Turcan, Kathy Mckeown, Amy Barr, J. Brandt, N. Becker, J. Salles, Lauren Rasmus M. Birn, L. Kenworthy, Rachel Case, Caravella, B. Tyler, Peter Jones, Alex Bandettini, Martin, Ilaria Bizzozero, Stefania Scotti, F. Clerici, S. Pomati, M. Laiacona, E. Capitani, J. Cerhan, R. Ivnik, Glenn Smith, E. Tangalos, Ronald S. Petersen, Bradley F. Boeve, H. Chertkow, D. Bub, D. Clark, Virginia G. Wadley, P. Kapur, Thomas Deramus, B. Singletary, A. Nicholas, P. Blanton, K. Lokken, D. Deshpande, Georg Marson, Deutsch, L. Clark, M. Gatz, L. Zheng, Y. Chen, C. McCleary, W. Mack, H. Coslett, D. Bowers, Mieke Verfaellie, Heilman, U. Díaz-Orueta, A. Blanco-Campal, Melissa Lamar, D. Libon, T. Burke, B. Dubois, A. Slachevsky, I. Litvan, B. Pillon, Miriam Faust, S. Fernaeus, P. ̈stberg, K. Hellstrm, L. Wahlund, N. Fisher, M. Tierney, Byron Rourke, John F. Szalai, R. Gómez, D. White, John R. Hodges, John R. Hodges, D. Salmon, Nelson Butters, E. Huey, E. Goveia, S. Paviol, M. Pardini, F. Krueger, G. Zamboni, M. Tierney, E. Wassermann, J. Grafman, Parris Kidd, Najoung Kim, Junghwa Kim, M. Wolters, Sarah Macpherson, J. Park, A. Knig, N. Linz, J. Tger, M. Wolters, J. Alexandersson, P. Robert, Yun-Qing Li, Ping Li, Qing-Bao Yang, Paul Eslinger, Christopher Sica, P. Karunanayaka, H. Lindsay, N. Linz, J. Trger, J. Alexandersson, Alexander Knig, Ze-Shui Shao, E. Janse, Karina Visser, Antje Meyer, Vanessa Taler, Natalie Phillips, Edmond Teng, Judith Leone-Friedman, Grace Lee, S.-A. M. Woo, Liana G. Apostolova, Shelly Harrell, J. Ringman, P.-F. Lu, Sharon L. Thompson-Schill, D. Mark, Geoffrey Esposito, M. Aguirre, Farah, J. Thyrian, Tilly Eichler, Andrea Pooch, Kerstin Albuerne, Adina Dreier, Bernhard Michalowsky, Wolfgang Hoffmann, Diana Wucherer, Jean Tom N. Tombaugh, Laura Kozak, Rees, Philippe Robert, A. Troyer, M. Moscovitch, G. Winocur, Donath Alexander, Stuss, J. Peter, J. Kray, M. Roisin, R. Vaughan, Roseanne Coen, Brian Kenny, Lawlor, Malvika Verma, R. Howard, Mathieu Vigneau, Pierre-Yves Beaucousin, Hugues Herv, F. Duffau, O. Crivello, Bernard Houd, N. Mazoyer, Tzourio-Mazoyer, M. Vita, Camillo Marra, Pietro Spinelli, Alessia Caprara, Eugenia Scaricamazza, Diana Castelli, Serena Canulli, Guido Gainotti, Davide Quaranta, Kesong Jeffrey C. Zemla, K. Cao, Joseph R. Mueller, Austerweil, Qian Zhao, Qi-Hao Guo, Zhen Hong, Muhammad Abdul, -Mageed, Lisa Feldman, Barrett, Laura Ana Maria Bostan, R. Klinger, D. Chicco, Giuseppe Jurman, J. Devlin, M. Chang, K.-E. Lee, Kristina Toutanova, Ben Eisner, Tim Rocktschel, Isabelle Augenstein, Matko Bonjak, Sebastian Riedel, Jeffry Larsen, A. Mcgraw, Nikolaos Lykousas, C. Patsakis, Andreas Kaltenbrunner, V. Gmez, S. Mohammad, M. Saif, Mohammad, Svetlana Mohammad, Kiritchenko, Peter Mohammad, Turney, A. Ortony, Terence Turner, Robert Plutchik, Ashequl Qadir, E. Riloff, Kirk Roberts, M. Roach, Joseph Johnson, Joshua Guthrie, S. Harabagiu, Klaus Scherer, Harald Wallbott",
+      "authors": "Glorianna Jagfeld, Fiona Lobban, Paul Rayson, S. Jones, G. Goodwin, Peter Haddad, I. Ferrier, J. Aronson, Thomas R. E. Barnes, A. Cipriani, D. Coghill, Seena Fazel, J. Geddes, H. Grunze, E. Holmes, Oliver D. Howes, S. Hudson, N. Hunt, I. Jones, I. C. MacMillan, R. H. McAllister-Williams, D. Mik, Roger S. McIntyre, S. Kennedy, J. Soczynska, H. H. Nguyễn, K. Merikangas, Robert Jin, Jian-Ping He, Ronald C. Kessler, Sin-Wah Lee, N. Sampson, María Carmen Viana, L. Andrade, Chi-Yi Hu, E. Karam, Maria Ladea, María Elena, M. Mora, M. Oakley, Keith Harrigian, Carlos Alejandro Aguirre, Mark Dredze, G. Coppersmith, Craig Harman, Kristy Hollingshead, Margaret Mitchell, J. Eichstaedt, Robert E. Smith, R. Merchant, Lyle Ungar, Hila Gonen, Yoav Goldberg, Yoav Goldberg, A. Benton, G. Coppersmith, M. Dredze, Liliana Dell, Osso, B. Carpita, C. Bertelloni, E. Diadema, M. Filippo, Camilla Barberi, C. Gesi, Carmassi, Colin A. Depp, Dilip V. Jeste, A. Di Florio, I. Jones, Gunther Eysenbach, James Till, J. Alize, Emily K. Ferrari, Jon Stockings, Holly Khoo, Lois Erskine, T. Degenhardt, H. Vos, Whiteford, Robert Freedman, David Lewis, Robert Michels, Daniel C. Pine, S. Schultz, Carol A. Tamminga, G. Gabbard, Susan Shur-Fen, D. Gau, Maria Javitt, Patrick Oquendo, Eduard Shrout, Joel Vieta, Yager, D. Novick, H. Swartz, Ellen Frank, O' Bridianne, Steven Dea, Philip Wan, A. Batterham, Cecile Calear, Helen Paris, Christensen, M. Oud, Evan Mayo-Wilson, Ruth Braidwood, P. Schulte, Steven Jones, R. Morriss, R. Kupka, P. Cuijpers, T. Kendall, M. Paul, A. Pfennig, B. Jabs, S. Pfeiffer, B. Weikert, K. Leopold, M. Bauer, Stefano Pini, Valria De Queiroz, Daniel Pagnin, L. Pezawas, Jules Angst, G. Cassano, H. Wittchen, Ria Poole, Daniel Smith, S. Simpson, Daniel Preoiuc-Pietro, J. Eichstaedt, Gregory J. Park, Maarten Sap, Laura K. Smith, Victoria A. Tobolsky, H. A. Schwartz, Lyle Ungar, D. Ruths, J. Pfeffer, K. Puneet, Pamela Sahota, Sankar, M. Sajatovic, Weronika Micula-Gondek, C. Tatsuoka, C. Bialko, Elvis Saravia, Chun-Yuan Chang, R. Lorenzo, Yi-Tung Shin, Chen, Ivan Sekuli, Matej Gjurkovi, Joanna Najder, Anna Tigunova, P. Mirza, Andrew Yates, G. Weikum, T. Treuer, M. Tohen, Agns Vayreda, C. Antaki, Zi-Jian Wang, David Jurgens, Helen Warwick, Sara Tai, Warren Mansell, Matthew L. Williams, Pete Burnap, Luke Sloan, Minjoo Yoo, Sangwon Lee, T. Ha, Carlos Alejandro Aguirre, Keith Harrigian, Silvio Amir, John W. Ayers, M. Martín, Antony, David Barlow, Alina Arseniev-Koehler, S. Mozgai, Stefan Scherer, Benjamin John W. Ayers, Jon-Patrick Althouse, Niels Allem, Daniel Rosenquist, Ford, R. Bakken, Douglas Rarameswaran, Andrew Blough, Ty Franz, Palmer, Borwin Bandelow, Sophie Michaelis, Thomas William E. Boebert, R. Markham, Olmsted, S. Bucci, M. Schwannauer, Natalie Berry, Stevie Chancellor, Munmun Choudhury, Andrea Hu, Zhi-Yuan Lin, Erica L. Goodman, S. Zerwas, Tanushree Mitra, Arman Cohan, Bart Desmet, Luca Soldaini, Sean MacAvaney, Nazli Goharian, Mrinal Kumar, Yaoyiran Li, R. Mihalcea, Steven L. Wilson, Hui-Jie Lin, Jia Jia, Quan-Zhou Guo, Yuan-Yuan Xue, Qi Li, Jie Huang, Li Cai, Ling Feng, Linghu Nie, Guang-Yao Shen, T. Chua, Fabio David E. Losada, Javier Crestani, Parapar, Kate Loveys, J. Torrez, Alex B. Fine, Glendon L. Moriarty, Ayah Zirikly, David Milne, Glen Pink, Ben Hachey, Rafael A. Calvo, D. Mowery, C. Bryan, Mike Conway, A. Park, B. Norgeot, G. Quer, K. Brett, Ali Beaulieu-Jones, R. Torkamani, M. Dias, Rima Gianfrancesco, Arnaout, Suchi Isaac S. Kohane, Eric Saria, Topol, Galen Panger, Andrew J. Perrin, I. Pirina, C. A. C. Ltekin, P. Nicholson, I. Cohen, Abhishek Brenna N. Renn, David Pratap, S. Atkins, Patricia Mooney, Aren, Koustuv Saha, Margaret L. Kern, D. Stillwell, Michal Kosinski, Ivan Sekulic, Fu-Li Feng, Cun-Jun Zhang, Tian-Rui Hu, Wen-Wu Zhu, Judy Hanwen, --- Shen, Frank Rudzicz, Han-Chin Shing, Suraj Nair, Meir Friedenberg, H. Daum, P. Resnik, Elsbeth Turcan, Kathy Mckeown, Amy Barr, J. Brandt, N. Becker, J. Salles, Lauren Rasmus M. Birn, L. Kenworthy, Rachel Case, Caravella, B. Tyler, Peter Jones, Alex Bandettini, Martín, Ilaria Bizzozero, S. Scotti, F. Clerici, S. Pomati, M. Laiacona, E. Capitani, J. Cerhan, R. Ivnik, Glenn Smith, E. Tangalos, Ronald S. Petersen, Bradley F. Boeve, H. Chertkow, D. Bub, D. Clark, Virginia G. Wadley, P. Kapur, Thomas Deramus, B. Singletary, A. Nicholas, P. Blanton, K. Lokken, D. Deshpande, Georg Marson, Deutsch, L. Clark, M. Gatz, L. Zheng, Y. Chen, C. McCleary, W. Mack, H. Coslett, D. Bowers, Mieke Verfaellie, Heilman, U. Díaz-Orueta, A. Blanco-Campal, Melissa Lamar, D. Libon, T. Burke, B. Dubois, A. Slachevsky, I. Litvan, B. Pillon, M. Faust, S. Fernaeus, P. ̈stberg, K. Hellstrm, L. Wahlund, N. Fisher, M. Tierney, Byron Rourke, John F. Szalai, R. Gómez, D. White, John R. Hodges, John R. Hodges, D. Salmon, N. Butters, E. Huey, E. Goveia, S. Paviol, M. Pardini, F. Krueger, G. Zamboni, M. Tierney, E. Wassermann, J. Grafman, Parris Kidd, Najoung Kim, Junghwa Kim, M. Wolters, Sarah Macpherson, J. Park, A. Knig, N. Linz, J. Tger, M. Wolters, J. Alexandersson, P. Robert, Yun-Qing Li, Ping Li, Qing-Bao Yang, Paul Eslinger, Christopher Sica, P. Karunanayaka, H. Lindsay, N. Linz, J. Trger, J. Alexandersson, Alexander Knig, Ze-Shui Shao, E. Janse, Karin Visser, Antje Meyer, Vanessa Taler, Natalie Phillips, Edmond Teng, Judith Leone-Friedman, Grace Lee, S.-A. M. Woo, Liana G. Apostolova, Shelly P. Harrell, J. Ringman, P.-F. Lu, Sharon L. Thompson-Schill, D. Mark, G. Esposito, M. Aguirre, Farah, J. Thyrian, Tilly Eichler, Andrea Pooch, Kerstin Albuerne, Adina Dreier, Bernhard Michalowsky, Wolfgang Hoffmann, Diana Wucherer, Jean Tom N. Tombaugh, Laura Kozak, Rees, Philippe Robert, A. Troyer, M. Moscovitch, G. Winocur, Donath Alexander, Stuss, J. Peter, J. Kray, M. Roisin, R. Vaughan, Roseanne Coen, Brian Kenny, Lawlor, Malvika Verma, R. Howard, Mathieu Vigneau, Pierre-Yves Beaucousin, Hugues Herv, F. Duffau, O. Crivello, Bernard Houd, N. Mazoyer, Tzourio-Mazoyer, M. Vita, Camillo Marra, Pietro Spinelli, Alessia Caprara, Eugenia Scaricamazza, Diana Castelli, Serena Canulli, Guido Gainotti, Davide Quaranta, Kesong Jeffrey C. Zemla, K. Cao, Joseph R. Mueller, Austerweil, Qian Zhao, Qi-Hao Guo, Zhen Hong, Muhammad Abdul, -Mageed, L. Feldman, Barrett, Laura Ana Maria Bostan, R. Klinger, D. Chicco, Giuseppe Jurman, J. Devlin, M. Chang, K.-E. Lee, Kristina Toutanova, Ben Eisner, Tim Rocktschel, Isabelle Augenstein, Matko Bonjak, Sebastian Riedel, Jeffry Larsen, A. Mcgraw, Nikolaos Lykousas, C. Patsakis, Andreas Kaltenbrunner, V. Gmez, S. Mohammad, M. Saif, Mohammad, Svetlana Mohammad, Kiritchenko, Peter Mohammad, Turney, A. Ortony, Terence Turner, Robert Plutchik, Ashequl Qadir, E. Riloff, Kirk Roberts, M. Roach, Joseph Johnson, Joshua Guthrie, S. Harabagiu, Klaus Scherer, Harald Wallbott",
       "venue": "",
       "year": "2021",
       "citations": 5,
@@ -268,7 +268,7 @@
     },
     {
       "title": "A comprehensive study of mobility functioning information in clinical notes: entity hierarchy, corpus annotation, and sequence labeling",
-      "authors": "Thanh Thieu, Jonathan Camacho Maldonado, Pei-Shu Ho, Min Ding, Alex R Marr, D. Brandt, Denis R. Newman-Griffis, Ayah Zirikly, L. Chan, E. Rasch",
+      "authors": "Thanh Thieu, Jonathan Camacho Maldonado, Pei-Shu Ho, Min Ding, Alex R. Marr, D. Brandt, Denis R. Newman-Griffis, Ayah Zirikly, L. Chan, E. Rasch",
       "venue": "Int. J. Medical Informatics",
       "year": "2020",
       "citations": 22,
@@ -300,7 +300,7 @@
     },
     {
       "title": "Experiences and Challenges in Manual Annotation of Functioning Information in Medical Records",
-      "authors": "Jonathan Camacho Maldonado, Pei-Shu Ho, R. J. Silva, Alex R Marr, Julia Porcino, Maryanne Sacco, Ayah Zirikly, L. Chan, E. Rasch",
+      "authors": "Jonathan Camacho Maldonado, Pei-Shu Ho, R. J. Silva, Alex R. Marr, Julia Porcino, Maryanne Sacco, Ayah Zirikly, L. Chan, E. Rasch",
       "venue": "American Medical Informatics Association Annual Symposium",
       "year": "2020",
       "citations": 0,
@@ -308,7 +308,7 @@
     },
     {
       "title": "Curating Annotated Corpora for Functioning Information",
-      "authors": "R. J. Silva, Chunxiao Zhou, Bart Desmet, Ayah Zirikly, Alex R Marr, Maryanne Sacco, Pei-Shu Ho, Jonathan Camacho Maldonado, Julia Porcino, G. Divita, E. Rasch",
+      "authors": "R. J. Silva, Chunxiao Zhou, Bart Desmet, Ayah Zirikly, Alex R. Marr, Maryanne Sacco, Pei-Shu Ho, Jonathan Camacho Maldonado, Julia Porcino, G. Divita, E. Rasch",
       "venue": "American Medical Informatics Association Annual Symposium",
       "year": "2020",
       "citations": 0,
@@ -327,7 +327,7 @@
       "authors": "Denis Newman-Griffis, Julia Porcino, Ayah Zirikly, Thanh Thieu, Jonathan Camacho Maldonado, Pei-Shu Ho, Min Ding, L. Chan, E. Rasch",
       "venue": "BMC Public Health",
       "year": "2019",
-      "citations": 24,
+      "citations": 25,
       "url": "https://link.springer.com/content/pdf/10.1186/s12889-019-7630-3.pdf"
     },
     {
@@ -340,7 +340,7 @@
     },
     {
       "title": "Bootstrapping a Mobility Dictionary from a Seed Set",
-      "authors": "Ayah Zirikly, Denis R. Newman-Griffis, Julia Porcino, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R Marr",
+      "authors": "Ayah Zirikly, Denis R. Newman-Griffis, Julia Porcino, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R. Marr",
       "venue": "American Medical Informatics Association Annual Symposium",
       "year": "2019",
       "citations": 0,
@@ -348,7 +348,7 @@
     },
     {
       "title": "Automated classification of mobility activities in free text clinical narratives",
-      "authors": "Denis R. Newman-Griffis, Ayah Zirikly, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R Marr, Albert M. Lai, Eric Fosler-Lussier",
+      "authors": "Denis R. Newman-Griffis, Ayah Zirikly, Pei-Shu Ho, Jonathan Camacho Maldonado, Maryanne Sacco, Alex R. Marr, Albert M. Lai, Eric Fosler-Lussier",
       "venue": "American Medical Informatics Association Annual Symposium",
       "year": "2019",
       "citations": 0,
@@ -375,7 +375,7 @@
       "authors": "Denis Newman-Griffis, Ayah Zirikly",
       "venue": "Workshop on Biomedical Natural Language Processing",
       "year": "2018",
-      "citations": 38,
+      "citations": 39,
       "url": "https://www.aclweb.org/anthology/W18-2301.pdf"
     },
     {
@@ -407,7 +407,7 @@
       "authors": "Mohammed Attia, Ayah Zirikly, Mona T. Diab",
       "venue": "CogALex@COLING",
       "year": "2016",
-      "citations": 7,
+      "citations": 8,
       "url": ""
     },
     {
@@ -415,7 +415,7 @@
       "authors": "Ayah Zirikly, Mona T. Diab",
       "venue": "VS@HLT-NAACL",
       "year": "2015",
-      "citations": 59,
+      "citations": 60,
       "url": "https://doi.org/10.3115/v1/w15-1524"
     },
     {
